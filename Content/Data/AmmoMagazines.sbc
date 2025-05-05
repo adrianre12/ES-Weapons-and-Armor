@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <AmmoMagazines>
+        <AmmoMagazine>
+            <Id>
+                <TypeId>AmmoMagazine</TypeId>
+                <SubtypeId>LargeRailgunAmmoAdmin</SubtypeId>
+            </Id>
+            <DisplayName>Large Railgun Sabot Admin</DisplayName>
+            <Icon>Textures\GUI\Icons\Ammo\Railgun\RailgunAmmoLarge.dds</Icon>
+            <Size>
+                <X>1.0</X>
+                <Y>0.3</Y>
+                <Z>0.3</Z>
+            </Size>
+            <Mass>60</Mass>
+            <Volume>40</Volume>
+            <Model>Models\Weapons\RailgunAmmoLarge.mwm</Model>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+            <Capacity>1</Capacity>
+            <AmmoDefinitionId Subtype="LargeRailgunSlugAdmin" />
+
+            <MinimumOfferAmount>3</MinimumOfferAmount>
+            <MaximumOfferAmount>15</MaximumOfferAmount>
+            <MinimumOrderAmount>100</MinimumOrderAmount>
+            <MaximumOrderAmount>2000</MaximumOrderAmount>
+            <CanPlayerOrder>false</CanPlayerOrder>
+        </AmmoMagazine>
+
+		<AmmoMagazine>
+			<Id>
+				<TypeId>AmmoMagazine</TypeId>
+				<SubtypeId>LargeCalibreAmmoAdmin</SubtypeId>
+			</Id>
+			<DisplayName>Artillery Shell Admin</DisplayName>
+			<Icon>Textures\GUI\Icons\Ammo\Artillery_Turret\LargeCalibreShell.dds</Icon>
+			<Size>
+				<X>1.2</X>
+				<Y>0.3</Y>
+				<Z>0.3</Z>
+			</Size>
+			<Mass>100</Mass>
+			<Volume>100</Volume>
+			<Model>Models\Weapons\LargeCalibreShell.mwm</Model>
+			<PhysicalMaterial>Ammo</PhysicalMaterial>
+			<Capacity>1</Capacity>
+			<AmmoDefinitionId Subtype="LargeCalibreShellAdmin" />
+
+			<MinimumOfferAmount>50</MinimumOfferAmount>
+			<MaximumOfferAmount>500</MaximumOfferAmount>
+			<MinimumOrderAmount>100</MinimumOrderAmount>
+			<MaximumOrderAmount>2000</MaximumOrderAmount>
+			<CanPlayerOrder>false</CanPlayerOrder>
+		</AmmoMagazine>
+
+    	<AmmoMagazine>
+			<Id>
+				<TypeId>AmmoMagazine</TypeId>
+				<SubtypeId>LargeRailgunAmmoPVM</SubtypeId>
+			</Id>
+			<DisplayName>Large Railgun Sabot PVM</DisplayName>
+			<Icon>Textures\GUI\Icons\ammo\RailgunAmmoLarge.dds</Icon>
+			<Size>
+				<X>1.0</X>
+				<Y>0.3</Y>
+				<Z>0.3</Z>
+			</Size>
+			<Mass>60</Mass>
+			<Volume>40</Volume>
+			<Model>Models\Weapons\RailgunAmmoLarge.mwm</Model>
+			<PhysicalMaterial>Ammo</PhysicalMaterial>
+			<Capacity>1</Capacity>
+			<AmmoDefinitionId Subtype="LargeRailgunSlugPVM" />
+
+			<MinimumOfferAmount>3</MinimumOfferAmount>
+			<MaximumOfferAmount>15</MaximumOfferAmount>
+			<MinimumOrderAmount>100</MinimumOrderAmount>
+			<MaximumOrderAmount>2000</MaximumOrderAmount>
+			<CanPlayerOrder>true</CanPlayerOrder>
+		</AmmoMagazine>
+
+		<AmmoMagazine>
+			<Id>
+				<TypeId>AmmoMagazine</TypeId>
+				<SubtypeId>LargeRailgunAmmoPV</SubtypeId>
+			</Id>
+			<DisplayName>Large Railgun Sabot PV</DisplayName>
+			<Icon>Textures\GUI\Icons\ammo\RailgunAmmoLarge.dds</Icon>
+			<Size>
+				<X>1.0</X>
+				<Y>0.3</Y>
+				<Z>0.3</Z>
+			</Size>
+			<Mass>60</Mass>
+			<Volume>40</Volume>
+			<Model>Models\Weapons\RailgunAmmoLarge.mwm</Model>
+			<PhysicalMaterial>Ammo</PhysicalMaterial>
+			<Capacity>1</Capacity>
+			<AmmoDefinitionId Subtype="LargeRailgunSlugPV" />
+
+			<MinimumOfferAmount>3</MinimumOfferAmount>
+			<MaximumOfferAmount>15</MaximumOfferAmount>
+			<MinimumOrderAmount>100</MinimumOrderAmount>
+			<MaximumOrderAmount>2000</MaximumOrderAmount>
+			<CanPlayerOrder>true</CanPlayerOrder>
+		</AmmoMagazine>
+    </AmmoMagazines>
+</Definitions>

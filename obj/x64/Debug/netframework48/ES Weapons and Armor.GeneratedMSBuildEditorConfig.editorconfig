@@ -1,0 +1,10 @@
+is_global = true
+build_property.ProjectDir = C:\Users\Adrian\source\repos\ES Weapons and Armor\
+build_property.ProjectDir = C:\Users\Adrian\source\repos\ES Weapons and Armor\
+build_property.Mdk-IgnorePaths = **\*.debug.cs|obj\**\*
+build_property.RootNamespace = ES_Weapons_and_Armor
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

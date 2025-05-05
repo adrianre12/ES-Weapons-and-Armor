@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Sounds>
+		<Sound>
+			<Id>
+				<TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+				<SubtypeId>ArcWepRailgunLargeShot</SubtypeId>
+			</Id>
+			<Category>SHOT</Category>
+			<MaxDistance>200</MaxDistance>
+			<PreventSynchronization>2</PreventSynchronization>
+			<DistantSounds>
+				<DistantSound DistanceCrossfade="100" Distance="200" Sound="ArcWepLargeRailgunShotDist" />
+			</DistantSounds>
+			<DynamicMusicCategory>HeavyFight</DynamicMusicCategory>
+			<DynamicMusicAmount>15</DynamicMusicAmount>
+			<Volume>2</Volume>
+			<Waves>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP\Railgun\RailGun_Shot_1.xwm</Start>
+				</Wave>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP\Railgun\RailGun_Shot_2.xwm</Start>
+				</Wave>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP\Railgun\RailGun_Shot_3.xwm</Start>
+				</Wave>
+			</Waves>
+		</Sound>
+
+		<Sound>
+			<Id>
+				<TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+				<SubtypeId>RealWepRailgunLargeShot</SubtypeId>
+			</Id>
+			<Category>SHOT</Category>
+			<MaxDistance>100</MaxDistance>
+			<PreventSynchronization>2</PreventSynchronization>
+			<DynamicMusicCategory>HeavyFight</DynamicMusicCategory>
+			<DynamicMusicAmount>15</DynamicMusicAmount>
+			<Volume>2</Volume>
+			<RealisticFilter>realShipFilter</RealisticFilter>
+			<Waves>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP\Railgun\RailGun_Shot_1.xwm</Start>
+				</Wave>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP\Railgun\RailGun_Shot_2.xwm</Start>
+				</Wave>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP\Railgun\RailGun_Shot_3.xwm</Start>
+				</Wave>
+			</Waves>
+		</Sound>
+
+		<Sound>
+			<Id>
+				<TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+				<SubtypeId>ArcWepRailgunLargeCharge</SubtypeId>
+			</Id>
+			<Category>SHOT</Category>
+			<MaxDistance>100</MaxDistance>
+			<Volume>1.5</Volume>
+			<PitchVariation>30</PitchVariation>
+			<PreventSynchronization>1</PreventSynchronization>
+			<Waves>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP\Railgun\RailGun_Charge_1.wav</Start>
+				</Wave>
+			</Waves>
+		</Sound>
+
+		<Sound>
+			<Id>
+				<TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+				<SubtypeId>RealWepRailgunLargeCharge</SubtypeId>
+			</Id>
+			<Category>SHOT</Category>
+			<MaxDistance>50</MaxDistance>
+			<Volume>1.5</Volume>
+			<PitchVariation>30</PitchVariation>
+			<RealisticFilter>realShipFilter</RealisticFilter>
+			<PreventSynchronization>1</PreventSynchronization>
+			<Waves>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP\Railgun\RailGun_Charge_1.wav</Start>
+				</Wave>
+			</Waves>
+		</Sound>
+
+		<Sound>
+			<Id>
+				<TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+				<SubtypeId>ArcWepLargeRailgunShotDist</SubtypeId>
+			</Id>
+			<Category>SHOT</Category>
+			<MaxDistance>2000</MaxDistance>
+			<Volume>3</Volume>
+			<Waves>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP_DIST\Railgun\RailGun_Shot_1_Distant.wav</Start>
+				</Wave>
+				<Wave Type="D3">
+					<Start>Audio\ARC\WEP_DIST\Railgun\RailGun_Shot_2_Distant.wav</Start>
+				</Wave>
+			</Waves>
+		</Sound>
+	</Sounds>
+</Definitions>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlockVariantGroups>
+
+			<BlockVariantGroup>
+				<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="Admin" />
+				<Icon>Textures\GUI\Icons\Cubes\Weapons\RailGun.dds</Icon>
+				<Icon>Textures\GUI\Icons\Overlays\Admin.dds</Icon>
+				<DisplayName>Admin Weapons</DisplayName>
+				<Description>Admin Only</Description>
+				<Blocks>
+					<Block Type="MyObjectBuilder_SmallMissileLauncherReload" Subtype="LargeAdminRailgun" />
+					<Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="AdminArtilleryTurret" />
+				</Blocks>
+			</BlockVariantGroup>
+
+			<BlockVariantGroup>
+				<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="Prototech_Vanilla" />
+				<Icon>Textures\GUI\Icons\Cubes\Weapons\RailGun.dds</Icon>
+				<Icon>Textures\GUI\Icons\Overlays\V.dds</Icon>
+				<DisplayName>ES Prototech</DisplayName>
+				<Description>Prototech</Description>
+				<Blocks>
+					<Block Type="MyObjectBuilder_SmallMissileLauncherReload" Subtype="MarksmanLargePrototechRailgun" />
+					<Block Type="MyObjectBuilder_SmallMissileLauncherReload" Subtype="Adv_LargePrototechRailgun" />
+				</Blocks>
+			</BlockVariantGroup>

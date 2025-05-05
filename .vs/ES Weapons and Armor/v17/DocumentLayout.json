@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|c:\\users\\adrian\\source\\repos\\es weapons and armor\\content\\data\\blueprints.sbc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|solutionrelative:content\\data\\blueprints.sbc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|c:\\users\\adrian\\source\\repos\\es weapons and armor\\content\\data\\ammomagazines.sbc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|solutionrelative:content\\data\\ammomagazines.sbc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|c:\\users\\adrian\\source\\repos\\es weapons and armor\\content\\data\\weapons.sbc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|solutionrelative:content\\data\\weapons.sbc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|c:\\users\\adrian\\source\\repos\\es weapons and armor\\content\\data\\ammos.sbc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|solutionrelative:content\\data\\ammos.sbc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|c:\\users\\adrian\\source\\repos\\es weapons and armor\\content\\data\\blueprintclasses.sbc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|solutionrelative:content\\data\\blueprintclasses.sbc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|c:\\users\\adrian\\source\\repos\\es weapons and armor\\content\\data\\blockvariantgroups.sbc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|solutionrelative:content\\data\\blockvariantgroups.sbc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|c:\\users\\adrian\\source\\repos\\es weapons and armor\\content\\data\\blockcatagories.sbc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|solutionrelative:content\\data\\blockcatagories.sbc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|c:\\users\\adrian\\source\\repos\\es weapons and armor\\content\\data\\audio.sbc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|solutionrelative:content\\data\\audio.sbc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|c:\\users\\adrian\\source\\repos\\es weapons and armor\\content\\data\\components.sbc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{680F09C3-6EFA-44D4-981B-6195588B3975}|ES Weapons and Armor.csproj|solutionrelative:content\\data\\components.sbc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlueprintClasses.sbc",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\BlueprintClasses.sbc",
+              "RelativeDocumentMoniker": "Content\\Data\\BlueprintClasses.sbc",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\BlueprintClasses.sbc",
+              "RelativeToolTip": "Content\\Data\\BlueprintClasses.sbc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T15:51:34.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlockVariantGroups.sbc",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\BlockVariantGroups.sbc",
+              "RelativeDocumentMoniker": "Content\\Data\\BlockVariantGroups.sbc",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\BlockVariantGroups.sbc",
+              "RelativeToolTip": "Content\\Data\\BlockVariantGroups.sbc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T15:38:37.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlockCatagories.sbc",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\BlockCatagories.sbc",
+              "RelativeDocumentMoniker": "Content\\Data\\BlockCatagories.sbc",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\BlockCatagories.sbc",
+              "RelativeToolTip": "Content\\Data\\BlockCatagories.sbc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T15:35:43.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Audio.sbc",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Audio.sbc",
+              "RelativeDocumentMoniker": "Content\\Data\\Audio.sbc",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Audio.sbc",
+              "RelativeToolTip": "Content\\Data\\Audio.sbc",
+              "ViewState": "AgIAAFEAAAAAMjMzMzMLwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T14:56:16.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ammos.sbc",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Ammos.sbc",
+              "RelativeDocumentMoniker": "Content\\Data\\Ammos.sbc",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Ammos.sbc",
+              "RelativeToolTip": "Content\\Data\\Ammos.sbc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T14:18:19.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmmoMagazines.sbc",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\AmmoMagazines.sbc",
+              "RelativeDocumentMoniker": "Content\\Data\\AmmoMagazines.sbc",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\AmmoMagazines.sbc",
+              "RelativeToolTip": "Content\\Data\\AmmoMagazines.sbc",
+              "ViewState": "AgIAADEAAAAAXmZmZmb0vw8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T14:10:43.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Blueprints.sbc",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Blueprints.sbc",
+              "RelativeDocumentMoniker": "Content\\Data\\Blueprints.sbc",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Blueprints.sbc",
+              "RelativeToolTip": "Content\\Data\\Blueprints.sbc",
+              "ViewState": "AgIAABIAAAAAAAAAAEAvwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T08:28:09.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Components.sbc",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Components.sbc",
+              "RelativeDocumentMoniker": "Content\\Data\\Components.sbc",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Components.sbc",
+              "RelativeToolTip": "Content\\Data\\Components.sbc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T08:21:28.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weapons.sbc",
+              "DocumentMoniker": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Weapons.sbc",
+              "RelativeDocumentMoniker": "Content\\Data\\Weapons.sbc",
+              "ToolTip": "C:\\Users\\Adrian\\source\\repos\\ES Weapons and Armor\\Content\\Data\\Weapons.sbc",
+              "RelativeToolTip": "Content\\Data\\Weapons.sbc",
+              "ViewState": "AgIAACUAAAAAYmZmZmYEwBsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T07:56:41.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
