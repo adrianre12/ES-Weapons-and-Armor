@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Weapons>
-        <Weapon>
+
+		<Weapon>
             <Id>
                 <TypeId>WeaponDefinition</TypeId>
                 <SubtypeId>LargeAdminRailgun</SubtypeId>
@@ -19,7 +20,7 @@
                 <Effect Action="BeforeShoot" Dummy="barrel_001" Particle="Muzzle_Flash_RailgunLarge" Loop="false" InstantStop="false" OffsetX="0" OffsetY="0" OffsetZ="-9"/>
             </Effects>
         </Weapon>
-
+<!--
 		<Weapon>
 			<Id>
 				<TypeId>WeaponDefinition</TypeId>
@@ -78,6 +79,6 @@
 				<Effect Action="BeforeShoot" Dummy="barrel_001" Particle="Muzzle_Flash_RailgunLarge" Loop="false" InstantStop="false" OffsetX="0" OffsetY="0" OffsetZ="-9"/>
 			</Effects>
 		</Weapon>
-	
+-->	
     </Weapons>
 </Definitions>
