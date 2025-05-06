@@ -30,4 +30,8 @@
     <AdditionalFiles Remove="Content\Data\SBC files can go here" />
     <None Remove="thumb.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\Data\Armor\" />
+    <Folder Include="Content\Data\Weapon\" />
+  </ItemGroup>
 </Project>
