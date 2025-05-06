@@ -4,12 +4,12 @@
 		<Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
 			<Id>
 				<TypeId>AmmoDefinition</TypeId>
-				<SubtypeId>LargeRailgunSlugPV</SubtypeId>
+				<SubtypeId>LargeRailgunSlugAdmin</SubtypeId>
 			</Id>
 			<BasicProperties>
 				<DesiredSpeed>2000</DesiredSpeed>
 				<SpeedVariance>0</SpeedVariance>
-				<MaxTrajectory>2000</MaxTrajectory>
+				<MaxTrajectory>7000</MaxTrajectory>
 				<IsExplosive>true</IsExplosive>
 				<BackkickForce>120000</BackkickForce>
 				<PhysicalMaterial>LargeShell</PhysicalMaterial>
@@ -18,18 +18,19 @@
 			</BasicProperties>
 			<MissileProperties>
 				<MissileMass>2000</MissileMass>
-				<MissileExplosionRadius>6</MissileExplosionRadius>
+				<MissileExplosionRadius>10</MissileExplosionRadius>
 				<MissileModelName>Models\Weapons\RailgunAmmoLarge.mwm</MissileModelName>
 				<MissileAcceleration>0</MissileAcceleration>
 				<MissileInitialSpeed>2000</MissileInitialSpeed>
 				<MissileSkipAcceleration>false</MissileSkipAcceleration>
-				<MissileExplosionDamage>3</MissileExplosionDamage>
-				<MissileHealthPool>150000</MissileHealthPool>
+				<MissileExplosionDamage>5</MissileExplosionDamage>
+				<MissileHealthPool>300000</MissileHealthPool>
 				<MissileTrailEffect>RailGunTrail</MissileTrailEffect>
 				<MissileGravityEnabled>true</MissileGravityEnabled>
 			</MissileProperties>
 		</Ammo>
-
+		
+		
 		<Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
 			<Id>
 				<TypeId>AmmoDefinition</TypeId>
@@ -96,31 +97,31 @@
 		<Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
 			<Id>
 				<TypeId>AmmoDefinition</TypeId>
-				<SubtypeId>LargeRailgunSlugPV+</SubtypeId>
+				<SubtypeId>LargeRailgunSlugPV</SubtypeId>
 			</Id>
 			<BasicProperties>
-				<DesiredSpeed>5000</DesiredSpeed>
+				<DesiredSpeed>2000</DesiredSpeed>
 				<SpeedVariance>0</SpeedVariance>
-				<MaxTrajectory>5000</MaxTrajectory>
+				<MaxTrajectory>2000</MaxTrajectory>
 				<IsExplosive>true</IsExplosive>
 				<BackkickForce>120000</BackkickForce>
 				<PhysicalMaterial>LargeShell</PhysicalMaterial>
-				<ExplosiveDamageMultiplier>15</ExplosiveDamageMultiplier>
+				<ExplosiveDamageMultiplier>3</ExplosiveDamageMultiplier>
 				<DeathMessage>CauseOfDeath_HeavyWeapons</DeathMessage>
 			</BasicProperties>
 			<MissileProperties>
-				<MissileMass>3000</MissileMass>
-				<MissileExplosionRadius>50</MissileExplosionRadius>
+				<MissileMass>2000</MissileMass>
+				<MissileExplosionRadius>6</MissileExplosionRadius>
 				<MissileModelName>Models\Weapons\RailgunAmmoLarge.mwm</MissileModelName>
 				<MissileAcceleration>0</MissileAcceleration>
-				<MissileInitialSpeed>5000</MissileInitialSpeed>
+				<MissileInitialSpeed>2000</MissileInitialSpeed>
 				<MissileSkipAcceleration>false</MissileSkipAcceleration>
-				<MissileExplosionDamage>30</MissileExplosionDamage>
-				<MissileHealthPool>250000</MissileHealthPool>
+				<MissileExplosionDamage>3</MissileExplosionDamage>
+				<MissileHealthPool>150000</MissileHealthPool>
 				<MissileTrailEffect>RailGunTrail</MissileTrailEffect>
 				<MissileGravityEnabled>true</MissileGravityEnabled>
 			</MissileProperties>
 		</Ammo>
-
+		
     </Ammos>
 </Definitions>
