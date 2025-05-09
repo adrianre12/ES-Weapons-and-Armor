@@ -15,11 +15,11 @@
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)mal.mdk2.modpackager\2.1.4\build\Mal.Mdk2.ModPackager.props" Condition="Exists('$(NuGetPackageRoot)mal.mdk2.modpackager\2.1.4\build\Mal.Mdk2.ModPackager.props')" />
-    <Import Project="$(NuGetPackageRoot)mal.mdk2.modanalyzers\2.1.11\build\Mal.MDK2.ModAnalyzers.props" Condition="Exists('$(NuGetPackageRoot)mal.mdk2.modanalyzers\2.1.11\build\Mal.MDK2.ModAnalyzers.props')" />
+    <Import Project="$(NuGetPackageRoot)mal.mdk2.modanalyzers\2.1.12\build\Mal.MDK2.ModAnalyzers.props" Condition="Exists('$(NuGetPackageRoot)mal.mdk2.modanalyzers\2.1.12\build\Mal.MDK2.ModAnalyzers.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMal_Mdk2_References Condition=" '$(PkgMal_Mdk2_References)' == '' ">C:\Users\Adrian\.nuget\packages\mal.mdk2.references\2.2.4</PkgMal_Mdk2_References>
     <PkgMal_Mdk2_ModPackager Condition=" '$(PkgMal_Mdk2_ModPackager)' == '' ">C:\Users\Adrian\.nuget\packages\mal.mdk2.modpackager\2.1.4</PkgMal_Mdk2_ModPackager>
-    <PkgMal_Mdk2_ModAnalyzers Condition=" '$(PkgMal_Mdk2_ModAnalyzers)' == '' ">C:\Users\Adrian\.nuget\packages\mal.mdk2.modanalyzers\2.1.11</PkgMal_Mdk2_ModAnalyzers>
+    <PkgMal_Mdk2_ModAnalyzers Condition=" '$(PkgMal_Mdk2_ModAnalyzers)' == '' ">C:\Users\Adrian\.nuget\packages\mal.mdk2.modanalyzers\2.1.12</PkgMal_Mdk2_ModAnalyzers>
   </PropertyGroup>
 </Project>

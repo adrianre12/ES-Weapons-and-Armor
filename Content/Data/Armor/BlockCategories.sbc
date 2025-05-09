@@ -6,8 +6,8 @@
                 <TypeId>GuiBlockCategoryDefinition</TypeId>
                 <SubtypeId/>
             </Id>
-            <DisplayName>ES Prototech Armor Blocks</DisplayName>
-            <Name>ES Prototech Armor Blocks</Name>
+            <DisplayName>ES Prototech Armor</DisplayName>
+            <Name>ES Prototech Armor</Name>
             <ItemIds>
 				<string>CubeBlock/PrototechLargeHeavyBlockArmorBlock</string>
 				<string>CubeBlock/PrototechLargeHeavyBlockArmorSlope</string>

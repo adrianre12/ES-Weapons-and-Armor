@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.8": {
-      "Mal.Mdk2.ModAnalyzers/2.1.11": {
+      "Mal.Mdk2.ModAnalyzers/2.1.12": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -210,10 +210,10 @@
     }
   },
   "libraries": {
-    "Mal.Mdk2.ModAnalyzers/2.1.11": {
-      "sha512": "jrOeTcNnV5+SbkWWBWdZydRPEnT4ssdAwYPGP3wmX78TaW1di/uoSxW42YdXABK3EgjQhxMHlEGJ9tAmDB0gGA==",
+    "Mal.Mdk2.ModAnalyzers/2.1.12": {
+      "sha512": "uImHYFFAzMtBtJkw+Rzc7ospebgFcwwMbouApczfdVHgW6e2SKiR+E9dhR8CaF/6CbCvX7MqqnlOvHYo+McrEA==",
       "type": "package",
-      "path": "mal.mdk2.modanalyzers/2.1.11",
+      "path": "mal.mdk2.modanalyzers/2.1.12",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -222,7 +222,7 @@
         "analyzers/dotnet/cs/Microsoft.Extensions.FileSystemGlobbing.dll",
         "build/Mal.MDK2.ModAnalyzers.props",
         "lib/netstandard2.0/_._",
-        "mal.mdk2.modanalyzers.2.1.11.nupkg.sha512",
+        "mal.mdk2.modanalyzers.2.1.12.nupkg.sha512",
         "mal.mdk2.modanalyzers.nuspec",
         "malware256.png",
         "readme.md",
@@ -1176,7 +1176,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8": [
-      "Mal.Mdk2.ModAnalyzers >= 2.1.11",
+      "Mal.Mdk2.ModAnalyzers >= 2.1.12",
       "Mal.Mdk2.ModPackager >= 2.1.4",
       "Mal.Mdk2.References >= 2.2.4"
     ]
@@ -1235,7 +1235,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.1.11, )"
+            "version": "[2.1.12, )"
           },
           "Mal.Mdk2.ModPackager": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

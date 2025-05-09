@@ -10,8 +10,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmorPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -20,7 +22,7 @@
             <Model>Models\Cubes\Large\HeavyArmorPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="6" />
-                <Component Subtype="MetalGrid" Count="3s" />
+                <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -47,8 +49,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmorCenterPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorCenterPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorCenterPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -57,7 +61,7 @@
             <Model>Models\Cubes\Large\HeavyArmorCenterPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="6" />
-                <Component Subtype="MetalGrid" Count="3s" />
+                <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -86,8 +90,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmorSlopedSidePanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorSlopedSidePanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorSlopedSidePanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -96,7 +102,7 @@
             <Model>Models\Cubes\Large\HeavyArmorSlopedSidePanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="3" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -125,8 +131,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmorSlopedPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorSlopedPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorSlopedPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -135,7 +143,7 @@
             <Model>Models\Cubes\Large\HeavyArmorSlopedPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="9" />
-                <Component Subtype="MetalGrid" Count="5s" />
+                <Component Subtype="MetalGrid" Count="5" />
                 <Component Subtype="PrototechPanel" Count="5" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -170,8 +178,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmorHalfPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorHalfPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -180,7 +190,7 @@
             <Model>Models\Cubes\Large\HeavyArmorHalfPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="3" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -207,8 +217,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmorHalfCenterPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorHalfCenterPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfCenterPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -217,7 +229,7 @@
             <Model>Models\Cubes\Large\HeavyArmorHalfCenterPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="3" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -243,8 +255,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmorQuarterPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorQuarterPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorQuarterPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyQuarterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -253,7 +267,7 @@
             <Model>Models\Cubes\Large\HeavyQuarterPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -280,8 +294,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1SlopedPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -290,7 +306,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1SlopedPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="8" />
-                <Component Subtype="MetalGrid" Count="4s" />
+                <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="PrototechPanel" Count="4" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -321,8 +337,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1SlopedPanelTipHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedPanelTipHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedPanelTipHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -331,7 +349,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1SlopedPanelTip.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="8" />
-                <Component Subtype="MetalGrid" Count="4s" />
+                <Component Subtype="MetalGrid" Count="4" />
                 <Component Subtype="PrototechPanel" Count="4" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -362,8 +380,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1SlopedSideBasePanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -372,7 +392,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1SlopedSideBasePanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="5" />
-                <Component Subtype="MetalGrid" Count="3s" />
+                <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -402,8 +422,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1SlopedSideTipPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -412,7 +434,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1SlopeSideTipPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="3" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -441,8 +463,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1SlopedSideBasePanelHeavyInv</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavyInv</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavyInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -451,7 +475,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1SlopeSideBasePanelInv.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="5" />
-                <Component Subtype="MetalGrid" Count="3s" />
+                <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -481,8 +505,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1SlopedSideTipPanelHeavyInv</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavyInv</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavyInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -491,7 +517,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1SlopeSideTipPanelInv.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="3" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -520,8 +546,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmorHalfSlopedPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorHalfSlopedPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfSlopedPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -530,7 +558,7 @@
             <Model>Models\Cubes\Large\HeavyArmorHalfSlopedPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="4" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -561,8 +589,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1HalfSlopedPanelHeavyRight</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -571,7 +601,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1HalfSlopedPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="4" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -600,8 +630,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1HalfSlopedTipPanelHeavyRight</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -610,7 +642,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1HalfSlopedTipPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="4" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -639,8 +671,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1HalfSlopedPanelHeavyLeft</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavyInv</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavyInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -649,7 +683,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1HalfSlopedPanelInv.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="4" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -678,8 +712,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeArmor2x1HalfSlopedTipPanelHeavyLeft</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavyInv</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavyInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -688,7 +724,7 @@
             <Model>Models\Cubes\Large\HeavyArmor2x1HalfSlopedTipPanelInv.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="4" />
-                <Component Subtype="MetalGrid" Count="2s" />
+                <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -717,8 +753,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeRoundArmorPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelRoundHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -727,7 +765,7 @@
             <Model>Models\Cubes\Large\HeavyRoundArmorPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="10" />
-                <Component Subtype="MetalGrid" Count="5s" />
+                <Component Subtype="MetalGrid" Count="5" />
                 <Component Subtype="PrototechPanel" Count="5" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -762,8 +800,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeRoundArmorPanelCornerHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelRoundCornerHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundCornerHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -772,7 +812,7 @@
             <Model>Models\Cubes\Large\HeavyRoundArmorPanelCorner.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="6" />
-                <Component Subtype="MetalGrid" Count="3s" />
+                <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -810,8 +850,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeRoundArmorPanelFaceHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelRoundFaceHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundFaceHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -821,7 +863,7 @@
             <Model>Models\Cubes\Large\HeavyRoundArmorPanelFace.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="5" />
-                <Component Subtype="MetalGrid" Count="3s" />
+                <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -850,8 +892,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechLargeRoundArmorPanelInvertedCornerHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelRoundInvertedCornerHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundInvertedCornerHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -861,7 +905,7 @@
             <Model>Models\Cubes\Large\HeavyRoundArmorPanelInvertedCorner.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="6" />
-                <Component Subtype="MetalGrid" Count="3s" />
+                <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -909,8 +953,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmorPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -919,7 +965,7 @@
             <Model>Models\Cubes\Small\HeavyArmorPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -946,8 +992,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmorCenterPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorCenterPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorCenterPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -956,7 +1004,7 @@
             <Model>Models\Cubes\Small\HeavyArmorCenterPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -985,8 +1033,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmorSlopedSidePanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorSlopedSidePanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorSlopedSidePanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -995,7 +1045,7 @@
             <Model>Models\Cubes\Small\HeavyArmorSlopedSidePanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1024,8 +1074,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmorSlopedPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorSlopedPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorSlopedPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1034,7 +1086,7 @@
             <Model>Models\Cubes\Small\HeavyArmorSlopedPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1069,8 +1121,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmorHalfPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorHalfPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1079,7 +1133,7 @@
             <Model>Models\Cubes\Small\HeavyArmorHalfPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1106,8 +1160,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmorHalfCenterPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorHalfCenterPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfCenterPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1116,7 +1172,7 @@
             <Model>Models\Cubes\Small\HeavyArmorHalfCenterPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1142,8 +1198,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmorQuarterPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorQuarterPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorQuarterPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyQuarterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1152,7 +1210,7 @@
             <Model>Models\Cubes\Small\HeavyQuarterPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1179,8 +1237,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1SlopedPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1189,7 +1249,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1SlopedPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1220,8 +1280,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1SlopedPanelTipHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedPanelTipHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedPanelTipHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1230,7 +1292,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1SlopedPanelTip.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1261,8 +1323,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1SlopedSideBasePanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1271,7 +1335,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1SlopedSideBasePanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1301,8 +1365,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1SlopedSideTipPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1311,7 +1377,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1SlopeSideTipPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1340,8 +1406,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1SlopedSideBasePanelHeavyInv</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavyInv</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavyInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1350,7 +1418,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1SlopeSideBasePanelInv.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1380,8 +1448,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1SlopedSideTipPanelHeavyInv</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavyInv</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavyInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1390,7 +1460,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1SlopeSideTipPanelInv.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1419,8 +1489,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmorHalfSlopedPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorHalfSlopedPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfSlopedPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1429,7 +1501,7 @@
             <Model>Models\Cubes\Small\HeavyArmorHalfSlopedPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1460,8 +1532,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1HalfSlopedPanelHeavyRight</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1470,7 +1544,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1HalfSlopedPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1499,8 +1573,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1HalfSlopedTipPanelHeavyRight</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1509,7 +1585,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1HalfSlopedTipPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1538,8 +1614,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1HalfSlopedPanelHeavyLeft</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavyInv</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavyInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1548,7 +1626,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1HalfSlopedPanelInv.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1577,8 +1655,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallArmor2x1HalfSlopedTipPanelHeavyLeft</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavyInv</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavyInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1587,7 +1667,7 @@
             <Model>Models\Cubes\Small\HeavyArmor2x1HalfSlopedTipPanelInv.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1616,8 +1696,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallRoundArmorPanelHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelRoundHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1626,7 +1708,7 @@
             <Model>Models\Cubes\Small\HeavyRoundArmorPanel.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -1661,8 +1743,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallRoundArmorPanelCornerHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelRoundCornerHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundCornerHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1671,7 +1755,7 @@
             <Model>Models\Cubes\Small\HeavyRoundArmorPanelCorner.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="1" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
@@ -1709,8 +1793,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallRoundArmorPanelFaceHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelRoundFaceHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundFaceHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -1720,7 +1806,7 @@
             <Model>Models\Cubes\Small\HeavyRoundArmorPanelFace.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
@@ -1749,8 +1835,10 @@
                 <TypeId>CubeBlock</TypeId>
                 <SubtypeId>PrototechSmallRoundArmorPanelInvertedCornerHeavy</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Block_PrototechArmorPanelRoundInvertedCornerHeavy</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundInvertedCornerHeavy}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
             <Description>Description_PrototechHeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -1760,7 +1848,7 @@
             <Model>Models\Cubes\Small\HeavyRoundArmorPanelInvertedCorner.mwm</Model>
             <Components>
                 <Component Subtype="PrototechPanel" Count="2" />
-                <Component Subtype="MetalGrid" Count="1s" />
+                <Component Subtype="MetalGrid" Count="1" />
                 <Component Subtype="PrototechPanel" Count="1" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="1" />
