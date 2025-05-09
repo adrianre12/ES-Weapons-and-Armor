@@ -39,9 +39,9 @@
                 <MountPoint EndX="0.0" EndY="0.0" Side="Bottom" StartX="1.0" StartY="1.0"/>
             </MountPoints>
             <Components>
-                <Component Count="15" Subtype="PrototechPanel"/>
+                <Component Count="16" Subtype="PrototechPanel"/>
                 <Component Count="9" Subtype="MetalGrid"/>
-                <Component Count="9" Subtype="PrototechPanel"/>
+                <Component Count="10" Subtype="PrototechPanel"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -299,7 +299,7 @@
                 <MountPoint EndX="0.0" EndY="0.0" Side="Bottom" StartX="1.0" StartY="1.0"/>
             </MountPoints>
             <Components>
-                <Component Count="60" Subtype="PrototechPanel"/>
+                <Component Count="64" Subtype="PrototechPanel"/>
                 <Component Count="24" Subtype="MetalGrid"/>
                 <Component Count="8" Subtype="PrototechPanel"/>
             </Components>
@@ -558,9 +558,9 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Front" StartX="0.0" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="21" Subtype="PrototechPanel"/>
+                <Component Count="23" Subtype="PrototechPanel"/>
                 <Component Count="8" Subtype="MetalGrid"/>
-                <Component Count="3" Subtype="PrototechPanel"/>
+                <Component Count="4" Subtype="PrototechPanel"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -793,7 +793,7 @@
                 <MountPoint EndX="0.55" EndY="0.55" Side="Bottom" StartX="1.0" StartY="1.0"/>
             </MountPoints>
             <Components>
-                <Component Count="6" Subtype="PrototechPanel"/>
+                <Component Count="7" Subtype="PrototechPanel"/>
                 <Component Count="3" Subtype="MetalGrid"/>
                 <Component Count="2" Subtype="PrototechPanel"/>
             </Components>
@@ -998,7 +998,7 @@
                 <MountPoint EndX="0.5" EndY="0.6" Side="Left" StartX="0.4" StartY="0.5"/>
             </MountPoints>
             <Components>
-                <Component Count="75" Subtype="PrototechPanel"/>
+                <Component Count="80" Subtype="PrototechPanel"/>
                 <Component Count="27" Subtype="MetalGrid"/>
                 <Component Count="9" Subtype="PrototechPanel"/>
             </Components>
@@ -1360,9 +1360,9 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Bottom" StartX="0.5" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="24" Subtype="PrototechPanel"/>
+                <Component Count="26" Subtype="PrototechPanel"/>
                 <Component Count="3" Subtype="MetalGrid"/>
-                <Component Count="3" Subtype="PrototechPanel"/>
+                <Component Count="4" Subtype="PrototechPanel"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -1615,9 +1615,9 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Left" StartX="0.0" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="24" Subtype="PrototechPanel"/>
+                <Component Count="26" Subtype="PrototechPanel"/>
                 <Component Count="9" Subtype="MetalGrid"/>
-                <Component Count="3" Subtype="PrototechPanel"/>
+                <Component Count="4" Subtype="PrototechPanel"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -1910,9 +1910,9 @@
                 <MountPoint EndX="0.0" EndY="0.0" Side="Bottom" StartX="1.0" StartY="1.0"/>
             </MountPoints>
             <Components>
-                <Component Count="72" Subtype="PrototechPanel"/>
+                <Component Count="76" Subtype="PrototechPanel"/>
                 <Component Count="27" Subtype="MetalGrid"/>
-                <Component Count="8" Subtype="PrototechPanel"/>
+                <Component Count="9" Subtype="PrototechPanel"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -2253,9 +2253,9 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Left" StartX="0.5" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="39" Subtype="PrototechPanel"/>
+                <Component Count="42" Subtype="PrototechPanel"/>
                 <Component Count="15" Subtype="MetalGrid"/>
-                <Component Count="6" Subtype="PrototechPanel"/>
+                <Component Count="7" Subtype="PrototechPanel"/>
             </Components>
             <CriticalComponent Index="0" Subtype="MetalGrid"/>
 
@@ -2539,7 +2539,7 @@
                 <MountPoint EndX="1.0" EndY="1.0" Side="Top" StartX="0.5" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="69" Subtype="PrototechPanel"/>
+                <Component Count="73" Subtype="PrototechPanel"/>
                 <Component Count="24" Subtype="MetalGrid"/>
                 <Component Count="8" Subtype="PrototechPanel"/>
             </Components>
@@ -2874,7 +2874,7 @@
                 <MountPoint EndX="1.0" EndY="0.5" Side="Left" StartX="0.8" StartY="0.0"/>
             </MountPoints>
             <Components>
-                <Component Count="12" Subtype="PrototechPanel"/>
+                <Component Count="13" Subtype="PrototechPanel"/>
                 <Component Count="4" Subtype="MetalGrid"/>
                 <Component Count="2" Subtype="PrototechPanel"/>
             </Components>

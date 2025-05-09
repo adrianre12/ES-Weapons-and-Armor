@@ -17,7 +17,7 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\RailGun.mwm</Model>
             <Components>
-				<Component Subtype="SteelPlate" Count="50" />
+				<Component Subtype="PrototechPanel" Count="50" />
 				<Component Subtype="ESRestrictedConstruction" Count="1" />
 				<DeconstructId>
 					<TypeId>Ore</TypeId>
@@ -28,7 +28,7 @@
 				<Component Subtype="LargeTube" Count="60" />
 				<Component Subtype="PowerCell" Count="100"/>
 				<Component Subtype="Computer" Count="100" />
-				<Component Subtype="SteelPlate" Count="300" />
+				<Component Subtype="PrototechPanel" Count="300" />
             </Components>
 			<CriticalComponent Subtype="Computer" Index="0" />
             <MountPoints>
@@ -84,7 +84,7 @@
 			<Model>Models\Cubes\Large\HeavyCalibreTurret.mwm</Model>
 			<UseModelIntersection>true</UseModelIntersection>
 			<Components>
-				<Component Subtype="SteelPlate" Count="150" />
+				<Component Subtype="PrototechPanel" Count="150" />
 				<Component Subtype="ESRestrictedConstruction" Count="1" />
 				<DeconstructId>
 					<TypeId>Ore</TypeId>
@@ -96,7 +96,7 @@
 				<Component Subtype="Motor" Count="30" />
 				<Component Subtype="Computer" Count="20" />
 				<Component Subtype="Construction" Count="100" />
-				<Component Subtype="SteelPlate" Count="300" />
+				<Component Subtype="PrototechPanel" Count="300" />
 			</Components>
 			<CriticalComponent Subtype="Computer" Index="0" />
 			<MountPoints>

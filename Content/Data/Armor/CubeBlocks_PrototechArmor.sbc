@@ -29,9 +29,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="81" />
+                <Component Subtype="PrototechPanel" Count="86" />
                 <Component Subtype="MetalGrid" Count="30" />
-                <Component Subtype="PrototechPanel" Count="9" />
+                <Component Subtype="PrototechPanel" Count="10" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -194,9 +194,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="39" />
+                <Component Subtype="PrototechPanel" Count="42" />
                 <Component Subtype="MetalGrid" Count="15" />
-                <Component Subtype="PrototechPanel" Count="6" />
+                <Component Subtype="PrototechPanel" Count="7" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -323,9 +323,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="12" />
+                <Component Subtype="PrototechPanel" Count="13" />
                 <Component Subtype="MetalGrid" Count="6" />
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -425,9 +425,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="66" />
+                <Component Subtype="PrototechPanel" Count="70" />
                 <Component Subtype="MetalGrid" Count="30" />
-                <Component Subtype="PrototechPanel" Count="9" />
+                <Component Subtype="PrototechPanel" Count="10" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -1127,9 +1127,9 @@
             <GuiVisible>false</GuiVisible>
             <PhysicsOption>Convex</PhysicsOption>
             <Components>
-                <Component Subtype="PrototechPanel" Count="39" />
+                <Component Subtype="PrototechPanel" Count="42" />
                 <Component Subtype="MetalGrid" Count="15" />
-                <Component Subtype="PrototechPanel" Count="6" />
+                <Component Subtype="PrototechPanel" Count="7" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <BuildProgressModels>
@@ -1793,9 +1793,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="69" />
+                <Component Subtype="PrototechPanel" Count="73" />
                 <Component Subtype="MetalGrid" Count="30" />
-                <Component Subtype="PrototechPanel" Count="9" />
+                <Component Subtype="PrototechPanel" Count="10" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -1922,9 +1922,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="66" />
+                <Component Subtype="PrototechPanel" Count="70" />
                 <Component Subtype="MetalGrid" Count="24" />
-                <Component Subtype="PrototechPanel" Count="9" />
+                <Component Subtype="PrototechPanel" Count="10" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -2024,9 +2024,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="75" />
+                <Component Subtype="PrototechPanel" Count="80" />
                 <Component Subtype="MetalGrid" Count="30" />
-                <Component Subtype="PrototechPanel" Count="9" />
+                <Component Subtype="PrototechPanel" Count="10" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -2574,7 +2574,7 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="60" />
+                <Component Subtype="PrototechPanel" Count="64" />
                 <Component Subtype="MetalGrid" Count="24" />
                 <Component Subtype="PrototechPanel" Count="8" />
             </Components>
@@ -2740,9 +2740,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="21" />
+                <Component Subtype="PrototechPanel" Count="23" />
                 <Component Subtype="MetalGrid" Count="8" />
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -2871,9 +2871,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="30" />
+                <Component Subtype="PrototechPanel" Count="32" />
                 <Component Subtype="MetalGrid" Count="9" />
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -3104,9 +3104,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="72" />
+                <Component Subtype="PrototechPanel" Count="76" />
                 <Component Subtype="MetalGrid" Count="27" />
-                <Component Subtype="PrototechPanel" Count="8" />
+                <Component Subtype="PrototechPanel" Count="9" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>
@@ -3260,9 +3260,9 @@
                 </Sides>
             </CubeDefinition>
             <Components>
-                <Component Subtype="PrototechPanel" Count="51" />
+                <Component Subtype="PrototechPanel" Count="54" />
                 <Component Subtype="MetalGrid" Count="15" />
-                <Component Subtype="PrototechPanel" Count="6" />
+                <Component Subtype="PrototechPanel" Count="7" />
             </Components>
             <CriticalComponent Subtype="PrototechPanel" Index="0" />
             <MountPoints>

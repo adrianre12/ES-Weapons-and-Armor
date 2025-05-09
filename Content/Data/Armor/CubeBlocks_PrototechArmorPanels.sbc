@@ -21,9 +21,9 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyArmorPanel.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="6" />
+                <Component Subtype="PrototechPanel" Count="7" />
                 <Component Subtype="MetalGrid" Count="3" />
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
             <MountPoints>
@@ -60,9 +60,9 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyArmorCenterPanel.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="6" />
+                <Component Subtype="PrototechPanel" Count="7" />
                 <Component Subtype="MetalGrid" Count="3" />
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
             <MountPoints>
@@ -101,7 +101,7 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyArmorSlopedSidePanel.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
                 <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
@@ -189,7 +189,7 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyArmorHalfPanel.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
                 <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
@@ -228,7 +228,7 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyArmorHalfCenterPanel.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
                 <Component Subtype="MetalGrid" Count="2" />
                 <Component Subtype="PrototechPanel" Count="2" />
             </Components>
@@ -391,7 +391,7 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyArmor2x1SlopedSideBasePanel.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="5" />
+                <Component Subtype="PrototechPanel" Count="6" />
                 <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
@@ -474,7 +474,7 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyArmor2x1SlopeSideBasePanelInv.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="5" />
+                <Component Subtype="PrototechPanel" Count="6" />
                 <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
@@ -764,9 +764,9 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyRoundArmorPanel.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="10" />
+                <Component Subtype="PrototechPanel" Count="11" />
                 <Component Subtype="MetalGrid" Count="5" />
-                <Component Subtype="PrototechPanel" Count="5" />
+                <Component Subtype="PrototechPanel" Count="6" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
             <MountPoints>
@@ -811,9 +811,9 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyRoundArmorPanelCorner.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="6" />
+                <Component Subtype="PrototechPanel" Count="7" />
                 <Component Subtype="MetalGrid" Count="3" />
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
             <MountPoints>
@@ -862,7 +862,7 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyRoundArmorPanelFace.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="5" />
+                <Component Subtype="PrototechPanel" Count="6" />
                 <Component Subtype="MetalGrid" Count="3" />
                 <Component Subtype="PrototechPanel" Count="3" />
             </Components>
@@ -904,9 +904,9 @@
             <ModelOffset x="0" y="0" z="0" />
             <Model>Models\Cubes\Large\HeavyRoundArmorPanelInvertedCorner.mwm</Model>
             <Components>
-                <Component Subtype="PrototechPanel" Count="6" />
+                <Component Subtype="PrototechPanel" Count="7" />
                 <Component Subtype="MetalGrid" Count="3" />
-                <Component Subtype="PrototechPanel" Count="3" />
+                <Component Subtype="PrototechPanel" Count="4" />
             </Components>
             <CriticalComponent Subtype="MetalGrid" Index="0" />
             <MountPoints>
