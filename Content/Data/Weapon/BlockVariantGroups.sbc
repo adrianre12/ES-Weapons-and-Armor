@@ -17,7 +17,7 @@
 		<BlockVariantGroup>
 			<Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="Prototech_Vanilla" />
 			<Icon>Textures\GUI\Icons\Cubes\Weapons\RailGun.dds</Icon>
-			<Icon>Textures\GUI\Icons\Overlays\V.dds</Icon>
+			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
 			<DisplayName>ES Prototech</DisplayName>
 			<Description>Prototech</Description>
 			<Blocks>

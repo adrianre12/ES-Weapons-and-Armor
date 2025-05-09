@@ -175,7 +175,7 @@
 			</Id>
 			<DisplayName>Marksman Large Prototech Railgun</DisplayName>
 			<Icon>Textures\GUI\Icons\Cubes\Weapons\RailGun.dds</Icon>
-			<Icon>Textures\GUI\Icons\Overlays\V.dds</Icon>
+			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
 			<Description>{LOC:Description_MarksmanLargePrototechRailgun}</Description>
 			<CubeSize>Large</CubeSize>
 			<BlockTopology>TriangleMesh</BlockTopology>
@@ -236,7 +236,7 @@
 			</Id>
 			<DisplayName>Adv. Large Prototech Railgun</DisplayName>
 			<Icon>Textures\GUI\Icons\Cubes\Weapons\RailGun.dds</Icon>
-			<Icon>Textures\GUI\Icons\Overlays\V.dds</Icon>
+			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
 			<Description>{LOC:Description_Adv_LargePrototechRailgun}</Description>
 			<CubeSize>Large</CubeSize>
 			<BlockTopology>TriangleMesh</BlockTopology>

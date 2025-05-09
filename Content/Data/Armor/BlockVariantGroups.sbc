@@ -4,7 +4,9 @@
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyCubeGroup" />
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_cube.dds</Icon>
-            <DisplayName>DisplayName_Block_PrototechHeavyArmorBlock</DisplayName>
+			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
+			<Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
+			<DisplayName>DisplayName_Block_PrototechHeavyArmorBlock</DisplayName>
             <Description>Description_PrototechHeavyArmor</Description>
             <Blocks>
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorBlock" />
@@ -25,7 +27,9 @@
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyRampGroup" />
             <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Base.dds</Icon>
-            <DisplayName>DisplayName_BlockGroup_ArmorHeavyRampGroup</DisplayName>
+			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
+			<Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
+			<DisplayName>DisplayName_BlockGroup_ArmorHeavyRampGroup</DisplayName>
             <Description>Description_PrototechHeavyArmor</Description>
             <Blocks>
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorSlope2Base" />
@@ -48,7 +52,9 @@
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyRampCornerGroup" />
             <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Base.dds</Icon>
-            <DisplayName>DisplayName_BlockGroup_ArmorHeavyRampCornerGroup</DisplayName>
+			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
+			<Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
+			<DisplayName>DisplayName_BlockGroup_ArmorHeavyRampCornerGroup</DisplayName>
             <Description>Description_PrototechHeavyArmor</Description>
             <Blocks>
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorCorner2Base" />
@@ -69,7 +75,9 @@
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyRoundGroup" />
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorSlope.dds</Icon>
-            <DisplayName>DisplayName_Block_HeavyRoundArmorSlope</DisplayName>
+			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
+			<Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
+			<DisplayName>DisplayName_Block_HeavyRoundArmorSlope</DisplayName>
             <Description>Description_PrototechHeavyArmor</Description>
             <Blocks>
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorRoundSlope" />
@@ -83,8 +91,10 @@
 
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavySlopedCorners" />
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerTip.dds</Icon>
-            <DisplayName>DisplayName_BlockGroup_HeavyArmorSlopedCorners</DisplayName>
+			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
+			<Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerTip.dds</Icon>
+			<Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
+			<DisplayName>DisplayName_BlockGroup_HeavyArmorSlopedCorners</DisplayName>
             <Description>Description_PrototechHeavyArmor</Description>
             <Blocks>
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopedCornerTip" />
@@ -108,8 +118,10 @@
 
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyTransitionBlocks" />
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBase.dds</Icon>
-            <DisplayName>DisplayName_BlockGroup_HeavyArmorTransitionBlocks</DisplayName>
+			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
+			<Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBase.dds</Icon>
+			<Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
+			<DisplayName>DisplayName_BlockGroup_HeavyArmorTransitionBlocks</DisplayName>
             <Description>Description_LightArmor</Description>
             <Blocks>
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopeTransitionBase" />
@@ -129,8 +141,10 @@
 
          <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechHeavyArmorPanelsGroup" />
-            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
-            <DisplayName>DisplayName_Block_heavyArmorPanel</DisplayName>
+			 <Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
+			 <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
+			 <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
+			 <DisplayName>DisplayName_Block_heavyArmorPanel</DisplayName>
             <Description>Description_ArmorPanel</Description>
             <Blocks>
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmorPanelHeavy" />
