@@ -1,0 +1,106 @@
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>LargeBlockHeavyArmorSlopedCornerTip</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_HeavyArmorSlopedCornerTip</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerTip.dds</Icon>
+            <Description>Description_HeavyArmor</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>Cube</BlockTopology>
+            <Size x="1" y="1" z="1"/>
+            <ModelOffset x="0.0" y="0.0" z="0.0"/>
+            <CubeDefinition>
+                <CubeTopology>SlopedCornerTip</CubeTopology>
+                <ShowEdges>true</ShowEdges>
+                <Sides>
+                    <Side Model="Models\Cubes\Large\Armor\HeavyCornerTriangleLeftPlate.mwm" PatternHeight="2" PatternWidth="4"/>
+                    <!--CornerTriangleLeftPlate001-->
+                    <Side Model="Models\Cubes\Large\Armor\HeavySlopedCornerTipLeft.mwm" PatternHeight="2" PatternWidth="4"/>
+                    <!--SlopedCornerTipLeft001-->
+                    <Side Model="Models\Cubes\Large\Armor\HeavySlopedCornerTipRight.mwm" PatternHeight="2" PatternWidth="4"/>
+                    <!--SlopedCornerTipRight-->
+                    <Side Model="Models\Cubes\Large\Armor\HeavySlopedCornerTipTriangle.mwm" PatternHeight="2" PatternWidth="4"/>
+                    <!--SlopedCornerTipTriangle-->
+                </Sides>
+            </CubeDefinition>
+            <MountPoints>
+                <MountPoint EndX="0.5" EndY="0.5" Side="Bottom" StartX="0.0" StartY="0.0"/>
+                <MountPoint EndX="1.0" EndY="1.0" Side="Bottom" StartX="0.0" StartY="0.5"/>
+                <MountPoint EndX="0.2" EndY="0.5" Side="Back" StartX="0.0" StartY="0.0"/>
+                <MountPoint EndX="0.2" EndY="0.4" Side="Back" StartX="0.8" StartY="0.0"/>
+                <MountPoint EndX="1.0" EndY="0.1" Side="Back" StartX="0.8" StartY="0.0"/>
+                <MountPoint EndX="0.2" EndY="0.1" Side="Left" StartX="0.0" StartY="0.0"/>
+                <MountPoint EndX="0.8" EndY="0.4" Side="Left" StartX="0.2" StartY="0.0"/>
+                <MountPoint EndX="1.0" EndY="0.5" Side="Left" StartX="0.8" StartY="0.0"/>
+            </MountPoints>
+            <Components>
+                <Component Count="20" Subtype="SteelPlate"/>
+                <Component Count="6" Subtype="MetalGrid"/>
+                <Component Count="3" Subtype="SteelPlate"/>
+            </Components>
+            <CriticalComponent Index="0" Subtype="MetalGrid"/>
+
+            <Skeleton>
+                <!--SlopedCornerTip-->
+                <BoneInfo>
+                    <BonePosition x="1" y="0" z="2" />
+                    <BoneOffset x="127" y="127" z="127" />
+                </BoneInfo>
+                <BoneInfo>
+                    <BonePosition x="0" y="0" z="2" />
+                    <BoneOffset x="127" y="127" z="127" />
+                </BoneInfo>
+                <BoneInfo>
+                    <BonePosition x="1" y="0" z="1" />
+                    <BoneOffset x="127" y="127" z="127" />
+                </BoneInfo>
+                <BoneInfo>
+                    <BonePosition x="2" y="0" z="2" />
+                    <BoneOffset x="127" y="127" z="127" />
+                </BoneInfo>
+                <BoneInfo>
+                    <BonePosition x="0" y="0" z="1" />
+                    <BoneOffset x="127" y="127" z="127" />
+                </BoneInfo>
+                <BoneInfo>
+                    <BonePosition x="0" y="0" z="0" />
+                    <BoneOffset x="127" y="127" z="127" />
+                </BoneInfo>
+                <BoneInfo>
+                    <BonePosition x="0" y="1" z="2" />
+                    <BoneOffset x="127" y="127" z="127" />
+                </BoneInfo>
+                <BoneInfo>
+                    <BonePosition x="1" y="1" z="2" />
+                    <BoneOffset x="127" y="127" z="127" />
+                </BoneInfo>
+                <BoneInfo>
+                    <BonePosition x="0" y="1" z="1" />
+                    <BoneOffset x="127" y="127" z="127" />
+                </BoneInfo>
+            </Skeleton>
+            <BlockPairName>HeavyArmorSlopedCornerTip</BlockPairName>
+            <PhysicsOption>Convex</PhysicsOption>
+            <EdgeType>Heavy</EdgeType>
+            <BuildTimeSeconds>5.0</BuildTimeSeconds>
+            <DisassembleRatio>2.5</DisassembleRatio>
+            <NavigationDefinition>Default</NavigationDefinition>
+            <MirroringX>MinusHalfY</MirroringX>
+            <MirroringY>ZHalfY</MirroringY>
+            <MirroringZ>HalfY</MirroringZ>
+            <PCUConsole>2</PCUConsole>
+            <Public>true</Public>
+            <GuiVisible>false</GuiVisible>
+            <SilenceableByShipSoundSystem>false</SilenceableByShipSoundSystem>
+            <InventoryMaxVolume>1.0</InventoryMaxVolume>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\Armor\SlopedCornerTipConstruction_1.mwm"/>
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\Armor\SlopedCornerTipConstruction_2.mwm"/>
+                <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\Armor\SlopedCornerTipConstruction_3.mwm"/>
+            </BuildProgressModels>
+            <UseModelIntersection>false</UseModelIntersection>
+            <GeneralDamageMultiplier>1.0</GeneralDamageMultiplier>
+            <IsAirTight>false</IsAirTight>
+            <Model/>
+        </Definition>

@@ -1,0 +1,9 @@
+  <data name="Description_LightArmor" xml:space="preserve">
+    <value>Basic armor to give structure and shape to ships and stations. Not very durable but lightweight. </value>
+  </data>
+  <data name="Description_HeavyArmor" xml:space="preserve">
+    <value>Heavy armor to give structure and shape to ships and stations. Durable but heavy. </value>
+  </data>
+  <data name="DisplayName_Block_HalfHeavyArmorBlock" xml:space="preserve">
+    <value>Half Heavy Armor Block</value>
+  </data>
