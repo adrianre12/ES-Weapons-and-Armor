@@ -5,13 +5,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorBlock</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorBlock</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorBlock}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorBlock}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_cube.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -157,7 +157,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorBlock</BlockPairName>
+            <BlockPairName>ESPrototechArmorBlock</BlockPairName>
             <DeformationRatio>0.4</DeformationRatio>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>30</BuildTimeSeconds>
@@ -170,13 +170,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorSlope</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorSlope</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlope}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlope}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_slope.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -287,7 +287,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorSlope</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlope</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <DeformationRatio>0.4</DeformationRatio>
@@ -300,13 +300,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorCorner</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_corner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -384,7 +384,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorCorner</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>ZHalfY</MirroringY>
             <MirroringZ>YHalfY</MirroringZ>
@@ -399,13 +399,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorCornerInv</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorCornerInv</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorInvCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorInvCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_inv_corner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -541,7 +541,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorInvCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorInvCorner</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>ZHalfY</MirroringY>
             <MirroringZ>YHalfZ</MirroringZ>
@@ -555,13 +555,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorBlock</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorBlock</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorBlock}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorBlock}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_cube.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -706,7 +706,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorBlock</BlockPairName>
+            <BlockPairName>ESPrototechArmorBlock</BlockPairName>
             <DeformationRatio>0.16</DeformationRatio>
             <BuildTimeSeconds>9</BuildTimeSeconds>
             <DisassembleRatio>3</DisassembleRatio>
@@ -718,13 +718,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorSlope</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorSlope</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlope}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlope}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_slope.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>Cube</BlockTopology>
@@ -834,7 +834,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorSlope</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlope</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <DeformationRatio>0.16</DeformationRatio>
@@ -847,13 +847,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorCorner</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_corner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>Cube</BlockTopology>
@@ -930,7 +930,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorCorner</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>ZHalfY</MirroringY>
             <MirroringZ>YHalfY</MirroringZ>
@@ -945,13 +945,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorCornerInv</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorCornerInv</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorInvCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorInvCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_inv_corner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>Cube</BlockTopology>
@@ -1086,7 +1086,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorInvCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorInvCorner</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>ZHalfY</MirroringY>
             <MirroringZ>YHalfZ</MirroringZ>
@@ -1101,13 +1101,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyHalfArmorBlock</SubtypeId>
+                <SubtypeId>LargeESPrototechHalfArmorBlock</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHalfHeavyArmorBlock}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_HalfESPrototechArmorBlock}</DisplayName>
             <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSquareSlab.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1258,7 +1258,7 @@
             <BuildTimeSeconds>15</BuildTimeSeconds>
             <DisassembleRatio>2.5</DisassembleRatio>
             <NavigationDefinition>Default</NavigationDefinition>
-            <BlockPairName>PrototechHalfHeavyArmorBlock</BlockPairName>
+            <BlockPairName>HalfESPrototechArmorBlock</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <PCU>1</PCU>
@@ -1267,13 +1267,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyHalfSlopeArmorBlock</SubtypeId>
+                <SubtypeId>LargeESPrototechHalfSlopeArmorBlock</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHalfSlopeHeavyArmorBlock}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_HalfSlopeESPrototechArmorBlock}</DisplayName>
             <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSlopeSlab.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1418,7 +1418,7 @@
                 <MountPoint Side="Left" StartX="0" StartY="0" EndX="0.45" EndY="0.45" />
                 <MountPoint Side="Right" StartX="0.55" StartY="0" EndX="1.0" EndY="0.45" />
             </MountPoints>
-            <BlockPairName>PrototechHalfSlopeHeavyArmorBlock</BlockPairName>
+            <BlockPairName>HalfSlopeESPrototechArmorBlock</BlockPairName>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>8</BuildTimeSeconds>
             <DisassembleRatio>2.5</DisassembleRatio>
@@ -1433,13 +1433,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechHeavyHalfArmorBlock</SubtypeId>
+                <SubtypeId>ESPrototechHalfArmorBlock</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHalfHeavyArmorBlock}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_HalfESPrototechArmorBlock}</DisplayName>
             <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSquareSlab.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1586,7 +1586,7 @@
                 <MountPoint Side="Right" StartX="0.5" StartY="0" EndX="1" EndY="1" />
                 <MountPoint Side="Top" StartX="0" StartY="0.5" EndX="1" EndY="1" />
             </MountPoints>
-            <BlockPairName>PrototechHalfHeavyArmorBlock</BlockPairName>
+            <BlockPairName>HalfESPrototechArmorBlock</BlockPairName>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>5</BuildTimeSeconds>
             <DisassembleRatio>2.5</DisassembleRatio>
@@ -1600,13 +1600,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechHeavyHalfSlopeArmorBlock</SubtypeId>
+                <SubtypeId>ESPrototechHalfSlopeArmorBlock</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHalfSlopeHeavyArmorBlock}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_HalfSlopeESPrototechArmorBlock}</DisplayName>
             <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSlopeSlab.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1755,7 +1755,7 @@
             <BuildTimeSeconds>3</BuildTimeSeconds>
             <DisassembleRatio>2.5</DisassembleRatio>
             <NavigationDefinition>Default</NavigationDefinition>
-            <BlockPairName>PrototechHalfSlopeHeavyArmorBlock</BlockPairName>
+            <BlockPairName>HalfSlopeESPrototechArmorBlock</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <PCU>1</PCU>
@@ -1770,13 +1770,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorRoundSlope</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorRoundSlope</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyRoundArmorSlope}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechRoundArmorSlope}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorSlope.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1886,7 +1886,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorRoundSlope</BlockPairName>
+            <BlockPairName>ESPrototechArmorRoundSlope</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <DeformationRatio>0.4</DeformationRatio>
@@ -1899,13 +1899,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorRoundCorner</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorRoundCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyRoundArmorCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechRoundArmorCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -1983,7 +1983,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorRoundCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorRoundCorner</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>ZHalfY</MirroringY>
             <MirroringZ>YHalfY</MirroringZ>
@@ -1998,13 +1998,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorRoundCornerInv</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorRoundCornerInv</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyRoundArmorInvCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechRoundArmorInvCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorInvCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -2140,7 +2140,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorRoundCornerInv</BlockPairName>
+            <BlockPairName>ESPrototechArmorRoundCornerInv</BlockPairName>
             <MirroringX>MinusHalfY</MirroringX>
             <MirroringY>ZHalfY</MirroringY>
             <MirroringZ>HalfY</MirroringZ>
@@ -2158,13 +2158,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorRoundSlope</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorRoundSlope</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyRoundArmorSlope}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechRoundArmorSlope}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorSlope.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -2273,7 +2273,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorRoundSlope</BlockPairName>
+            <BlockPairName>ESPrototechArmorRoundSlope</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Heavy</EdgeType>
@@ -2286,13 +2286,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorRoundCorner</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorRoundCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyRoundArmorCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechRoundArmorCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -2369,7 +2369,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorRoundCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorRoundCorner</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>ZHalfY</MirroringY>
             <MirroringZ>YHalfY</MirroringZ>
@@ -2384,13 +2384,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorRoundCornerInv</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorRoundCornerInv</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyRoundArmorInvCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechRoundArmorInvCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorInvCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -2525,7 +2525,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorRoundCornerInv</BlockPairName>
+            <BlockPairName>ESPrototechArmorRoundCornerInv</BlockPairName>
             <MirroringX>MinusHalfY</MirroringX>
             <MirroringY>ZHalfY</MirroringY>
             <MirroringZ>HalfY</MirroringZ>
@@ -2550,13 +2550,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorSlope2Base</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorSlope2Base</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlope2Base}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlope2Base}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Base.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -2704,7 +2704,7 @@
                 <MountPoint Side="Right" StartX="0.5" StartY="0" EndX="1" EndY="1" />
             </MountPoints>
             <PhysicsOption>Convex</PhysicsOption>
-            <BlockPairName>PrototechLargeHeavyBlockArmorSlope2Base</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorSlope2Base</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Heavy</EdgeType>
@@ -2716,13 +2716,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorSlope2Tip</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorSlope2Tip</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlope2Tip}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlope2Tip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Tip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -2835,7 +2835,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorSlope2Tip</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorSlope2Tip</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Heavy</EdgeType>
@@ -2848,13 +2848,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorCorner2Base</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorCorner2Base</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCorner2Base}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCorner2Base}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Base.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -2965,7 +2965,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorCorner2Base</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorCorner2Base</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>MinusHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>
@@ -2979,13 +2979,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorCorner2Tip</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorCorner2Tip</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCorner2Tip}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCorner2Tip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Tip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -3064,7 +3064,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorCorner2Tip</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorCorner2Tip</BlockPairName>
             <MirroringX>HalfZ</MirroringX>
             <MirroringY>MinusHalfZ</MirroringY>
             <MirroringZ>XMinusHalfZ</MirroringZ>
@@ -3079,13 +3079,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorInvCorner2Base</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorInvCorner2Base</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorInvCorner2Base}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorInvCorner2Base}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyInvCorner2x1x1Base.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -3221,7 +3221,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorInvCorner2Base</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorInvCorner2Base</BlockPairName>
             <MirroringX>HalfZ</MirroringX>
             <MirroringY>MinusHalfZ</MirroringY>
             <MirroringZ>XMinusHalfZ</MirroringZ>
@@ -3234,13 +3234,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeHeavyBlockArmorInvCorner2Tip</SubtypeId>
+                <SubtypeId>LargeESPrototechBlockArmorInvCorner2Tip</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorInvCorner2Tip}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorInvCorner2Tip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyInvCorner2x1x1Tip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -3380,7 +3380,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorInvCorner2Tip</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorInvCorner2Tip</BlockPairName>
             <MirroringX>HalfZ</MirroringX>
             <MirroringY>MinusHalfZ</MirroringY>
             <MirroringZ>XMinusHalfZ</MirroringZ>
@@ -3401,13 +3401,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorSlope2Base</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorSlope2Base</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlope2Base}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlope2Base}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Base.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -3555,7 +3555,7 @@
                 </BoneInfo>
             </Skeleton>
             <PhysicsOption>Convex</PhysicsOption>
-            <BlockPairName>PrototechLargeHeavyBlockArmorSlope2Base</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorSlope2Base</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Heavy</EdgeType>
@@ -3567,13 +3567,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorSlope2Tip</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorSlope2Tip</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlope2Tip}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlope2Tip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Tip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -3686,7 +3686,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorSlope2Tip</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorSlope2Tip</BlockPairName>
             <MirroringY>Z</MirroringY>
             <MirroringZ>Y</MirroringZ>
             <EdgeType>Heavy</EdgeType>
@@ -3699,13 +3699,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorCorner2Base</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorCorner2Base</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCorner2Base}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCorner2Base}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Base.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -3816,7 +3816,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorCorner2Base</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorCorner2Base</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>MinusHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>
@@ -3830,13 +3830,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorCorner2Tip</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorCorner2Tip</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCorner2Tip}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCorner2Tip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Tip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -3915,7 +3915,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorCorner2Tip</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorCorner2Tip</BlockPairName>
             <MirroringX>HalfZ</MirroringX>
             <MirroringY>MinusHalfZ</MirroringY>
             <MirroringZ>XMinusHalfZ</MirroringZ>
@@ -3930,13 +3930,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorInvCorner2Base</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorInvCorner2Base</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorInvCorner2Base}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorInvCorner2Base}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyInvCorner2x1x1Base.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -4072,7 +4072,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorInvCorner2Base</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorInvCorner2Base</BlockPairName>
             <MirroringX>HalfZ</MirroringX>
             <MirroringY>MinusHalfZ</MirroringY>
             <MirroringZ>XMinusHalfZ</MirroringZ>
@@ -4085,13 +4085,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallHeavyBlockArmorInvCorner2Tip</SubtypeId>
+                <SubtypeId>SmallESPrototechBlockArmorInvCorner2Tip</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorInvCorner2Tip}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorInvCorner2Tip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyInvCorner2x1x1Tip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
@@ -4231,7 +4231,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechLargeHeavyBlockArmorInvCorner2Tip</BlockPairName>
+            <BlockPairName>LargeESPrototechBlockArmorInvCorner2Tip</BlockPairName>
             <MirroringX>HalfZ</MirroringX>
             <MirroringY>MinusHalfZ</MirroringY>
             <MirroringZ>XMinusHalfZ</MirroringZ>

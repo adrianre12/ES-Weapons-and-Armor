@@ -11,6 +11,7 @@ import (
 var linebuf strings.Builder
 
 func main() {
+	//	prototechName := "ESPrototech"
 
 	file, err := os.Open(os.Args[1])
 	if err != nil {
@@ -34,55 +35,25 @@ func main() {
 				grow = true
 				if strings.Contains(line, "Description_HeavyArmor") {
 					keep = true
-					line = strings.Replace(line, "_Heavy", "_PrototechHeavy", 1)
+					line = strings.Replace(line, "_Heavy", "_ESPrototech", 1)
 					break
 				}
 
 				if strings.Contains(line, "DisplayName_Block") && strings.Contains(line, "Heavy") {
 					keep = true
-					line = strings.Replace(line, "Block_", "Block_Prototech", 1)
+					line = strings.Replace(line, "Block_", "Block_ESPrototech", 1)
+					line = strings.Replace(line, "BlockGroup_", "BlockGroup_ESPrototech", 1)
+					line = strings.Replace(line, "Heavy", "", 1)
 				}
 			}
 		case strings.Contains(line, "</data>"):
 			{
 				flush = true
-				//fmt.Printf("EndDef\n")
 			}
 		case strings.Contains(line, "<value>") && strings.Contains(line, "Heavy"):
 			{
-				//keep = true
-				line = strings.Replace(line, ">Heavy", ">Prototech Heavy", 1)
-				//fmt.Println(line)
-				//fmt.Printf("Found\n")
+				line = strings.Replace(line, "Heavy", "Prototech", 1)
 			}
-
-			// case strings.Contains(line, "<Description>"):
-			// 	{
-			// 		line = strings.Replace(line, "Description_", "Description_Prototech", 1)
-			// 	}
-			// case strings.Contains(line, "<Component "):
-			// 	{
-			// 		line = ConvertComponent(line, 0.6, 0.6)
-			// 	}
-			// case strings.Contains(line, "<CriticalComponent"):
-			// 	{
-			// 		line = strings.Replace(line, "SteelPlate", "PrototechPanel", 1)
-
-			// 	}
-			// case strings.Contains(line, "<BlockPairName>"):
-			// 	{
-			// 		line = ElementPrefix(line)
-			// 	}
-			// case strings.Contains(line, "<BuildTimeSeconds>"):
-			// 	{
-			// 		s := strings.Index(line, ">") + 1
-			// 		e := strings.Index(line[s:], "<")
-			// 		i, err := strconv.Atoi(line[s : s+e])
-			// 		if err != nil {
-			// 			log.Fatal("strconv failed %w", err)
-			// 		}
-			// 		line = fmt.Sprintf("%s%d%s", line[:s], int(math.Ceil(float64(i)*1.5)), line[s+e:])
-			// 	}
 		}
 
 		if grow {
@@ -123,32 +94,3 @@ func main() {
 		log.Fatal(err)
 	}
 }
-
-// func ElementPrefix(line string) string {
-// 	s := strings.Index(line, ">") + 1
-
-// 	return fmt.Sprintf("%s%s%s", line[:s], "Prototech", line[s:])
-// }
-
-// func ConvertComponent(line string, protoRatio float64, otherRatio float64) string {
-// 	if strings.Contains(line, "SteelPlate") {
-// 		line = strings.Replace(line, "SteelPlate", "PrototechPanel", 1)
-// 		c := strings.Index(line, "Count=") + 7
-// 		e := strings.Index(line[c:], "\"")
-// 		i, err := strconv.Atoi(line[c : c+e])
-// 		if err != nil {
-// 			log.Fatal("strconv failed %w", err)
-// 		}
-// 		line = fmt.Sprintf("%s%d%s", line[:c], int(math.Ceil(float64(i)*protoRatio)), line[c+e:])
-// 	} else {
-// 		c := strings.Index(line, "Count=") + 7
-// 		e := strings.Index(line[c:], "\"")
-// 		i, err := strconv.Atoi(line[c : c+e])
-// 		if err != nil {
-// 			log.Fatal("strconv failed %w", err)
-// 		}
-// 		line = fmt.Sprintf("%s%d%s", line[:c], int(math.Ceil(float64(i)*otherRatio)), line[c+e:])
-// 	}
-
-// 	return line
-// }

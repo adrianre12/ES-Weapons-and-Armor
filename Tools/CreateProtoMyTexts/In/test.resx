@@ -58,13 +58,20 @@
 	<resheader name="writer">
 		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
 	</resheader>
+	
 	<data name="Description_LightArmor" xml:space="preserve">
-    <value>Basic armor to give structure and shape to ships and stations. Not very durable but lightweight. </value>
-  </data>
-  <data name="Description_HeavyArmor" xml:space="preserve">
-    <value>Heavy armor to give structure and shape to ships and stations. Durable but heavy. </value>
-  </data>
-  <data name="DisplayName_Block_HalfHeavyArmorBlock" xml:space="preserve">
-    <value>Half Heavy Armor Block</value>
-  </data>
+    	<value>Basic armor to give structure and shape to ships and stations. Not very durable but lightweight. </value>
+  	</data>
+	
+	<data name="Description_HeavyArmor" xml:space="preserve">
+		<value>Heavy armor to give structure and shape to ships and stations. Durable but heavy. </value>
+	</data>
+	
+	<data name="DisplayName_Block_HalfHeavyArmorBlock" xml:space="preserve">
+		<value>Half Heavy Armor Block</value>
+	</data>
+	
+	<data name="DisplayName_Block_ArmorHalfCenterPanelHeavy" xml:space="preserve">
+		<value>Heavy Armor Centered Half Panel</value>
+	</data>
 </root>

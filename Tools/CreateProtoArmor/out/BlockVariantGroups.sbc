@@ -2,181 +2,181 @@
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <BlockVariantGroups>
         <BlockVariantGroup>
-            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyCubeGroup" />
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorESPrototechCubeGroup" />
             <Icon>Textures\GUI\Icons\Cubes\heavy_armor_cube.dds</Icon>
-            <DisplayName>DisplayName_Block_PrototechHeavyArmorBlock</DisplayName>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <DisplayName>DisplayName_Block_ESPrototechArmorBlock</DisplayName>
+            <Description>Description_ESPrototechArmor</Description>
             <Blocks>
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorBlock" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorSlope" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorCornerInv" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorCornerSquare" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorCornerSquareInverted" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorBlock" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorSlope" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorCornerInv" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorCornerSquare" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorCornerSquareInverted" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorBlock" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorSlope" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorCornerInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorCornerSquare" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorCornerSquareInverted" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorBlock" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorSlope" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorCornerInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorCornerSquare" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorCornerSquareInverted" />
             </Blocks>
         </BlockVariantGroup>
 
         <BlockVariantGroup>
-            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyRampGroup" />
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorESPrototechRampGroup" />
             <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Base.dds</Icon>
-            <DisplayName>DisplayName_BlockGroup_ArmorHeavyRampGroup</DisplayName>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <DisplayName>DisplayName_BlockGroup_ESPrototechArmorRampGroup</DisplayName>
+            <Description>Description_ESPrototechArmor</Description>
             <Blocks>
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorSlope2Base" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorSlope2Tip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyHalfArmorBlock" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyHalfSlopeArmorBlock" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorHalfSlopeCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorHalfCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorHalfSlopedCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorSlope2Base" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorSlope2Tip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechHeavyHalfArmorBlock" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechHeavyHalfSlopeArmorBlock" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorHalfSlopeCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorHalfCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorHalfSlopedCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorSlope2Base" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorSlope2Tip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechHalfArmorBlock" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechHalfSlopeArmorBlock" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorHalfSlopeCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorHalfCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorHalfSlopedCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorSlope2Base" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorSlope2Tip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="ESPrototechHalfArmorBlock" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="ESPrototechHalfSlopeArmorBlock" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorHalfSlopeCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorHalfCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorHalfSlopedCorner" />
             </Blocks>
         </BlockVariantGroup>
 
         <BlockVariantGroup>
-            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyRampCornerGroup" />
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorESPrototechRampCornerGroup" />
             <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Base.dds</Icon>
-            <DisplayName>DisplayName_BlockGroup_ArmorHeavyRampCornerGroup</DisplayName>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <DisplayName>DisplayName_BlockGroup_ESPrototechArmorRampCornerGroup</DisplayName>
+            <Description>Description_ESPrototechArmor</Description>
             <Blocks>
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorCorner2Base" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorCorner2Tip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorInvCorner2Base" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorInvCorner2Tip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorHalfSlopeCornerInverted" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorHalfSlopeInverted" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorCorner2Base" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorCorner2Tip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorInvCorner2Base" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorInvCorner2Tip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorHalfSlopeCornerInverted" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorHalfSlopeInverted" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorCorner2Base" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorCorner2Tip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorInvCorner2Base" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorInvCorner2Tip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorHalfSlopeCornerInverted" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorHalfSlopeInverted" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorCorner2Base" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorCorner2Tip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorInvCorner2Base" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorInvCorner2Tip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorHalfSlopeCornerInverted" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorHalfSlopeInverted" />
             </Blocks>
         </BlockVariantGroup>
 
         <BlockVariantGroup>
-            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyRoundGroup" />
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorESPrototechRoundGroup" />
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorSlope.dds</Icon>
-            <DisplayName>DisplayName_Block_HeavyRoundArmorSlope</DisplayName>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <DisplayName>DisplayName_Block_ESPrototechRoundArmorSlope</DisplayName>
+            <Description>Description_ESPrototechArmor</Description>
             <Blocks>
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorRoundSlope" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorRoundCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeHeavyBlockArmorRoundCornerInv" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorRoundSlope" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorRoundCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallHeavyBlockArmorRoundCornerInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorRoundSlope" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorRoundCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeESPrototechBlockArmorRoundCornerInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorRoundSlope" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorRoundCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallESPrototechBlockArmorRoundCornerInv" />
             </Blocks>
         </BlockVariantGroup>
 
         <BlockVariantGroup>
-            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavySlopedCorners" />
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorESPrototechSlopedCorners" />
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerTip.dds</Icon>
-            <DisplayName>DisplayName_BlockGroup_HeavyArmorSlopedCorners</DisplayName>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <DisplayName>DisplayName_BlockGroup_ESPrototechArmorSlopedCorners</DisplayName>
+            <Description>Description_ESPrototechArmor</Description>
             <Blocks>
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopedCornerTip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorRaisedSlopedCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSquareSlopedCornerTip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSquareSlopedCornerBase" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSquareSlopedCornerTipInv" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopedCornerBase" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopedCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorHalfSlopedCornerBase" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSlopedCornerTip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorRaisedSlopedCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSquareSlopedCornerTip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSquareSlopedCornerBase" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSquareSlopedCornerTipInv" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSlopedCornerBase" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSlopedCorner" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorHalfSlopedCornerBase" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSlopedCornerTip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorRaisedSlopedCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSquareSlopedCornerTip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSquareSlopedCornerBase" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSquareSlopedCornerTipInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSlopedCornerBase" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSlopedCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorHalfSlopedCornerBase" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSlopedCornerTip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorRaisedSlopedCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSquareSlopedCornerTip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSquareSlopedCornerBase" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSquareSlopedCornerTipInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSlopedCornerBase" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSlopedCorner" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorHalfSlopedCornerBase" />
             </Blocks>
         </BlockVariantGroup>
 
         <BlockVariantGroup>
-            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechArmorHeavyTransitionBlocks" />
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorESPrototechTransitionBlocks" />
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBase.dds</Icon>
-            <DisplayName>DisplayName_BlockGroup_HeavyArmorTransitionBlocks</DisplayName>
-            <Description>Description_LightArmor</Description>
+            <DisplayName>DisplayName_BlockGroup_ESPrototechArmorTransitionBlocks</DisplayName>
+            <Description>Description_ESPrototechArmor</Description>
             <Blocks>
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopeTransitionBase" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopeTransition" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopeTransitionTip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopeTransitionBaseMirrored" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopeTransitionMirrored" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeBlockHeavyArmorSlopeTransitionTipMirrored" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSlopeTransitionBase" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSlopeTransition" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSlopeTransitionTip" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSlopeTransitionBaseMirrored" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSlopeTransitionMirrored" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallBlockHeavyArmorSlopeTransitionTipMirrored" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSlopeTransitionBase" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSlopeTransition" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSlopeTransitionTip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSlopeTransitionBaseMirrored" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSlopeTransitionMirrored" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockESPrototechArmorSlopeTransitionTipMirrored" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSlopeTransitionBase" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSlopeTransition" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSlopeTransitionTip" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSlopeTransitionBaseMirrored" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSlopeTransitionMirrored" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockESPrototechArmorSlopeTransitionTipMirrored" />
             </Blocks>
         </BlockVariantGroup>
 
          <BlockVariantGroup>
-            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="PrototechHeavyArmorPanelsGroup" />
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ESPrototechArmorPanelsGroup" />
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
-            <DisplayName>DisplayName_Block_heavyArmorPanel</DisplayName>
+            <DisplayName>DisplayName_Block_ESPrototechArmorPanel</DisplayName>
             <Description>Description_ArmorPanel</Description>
             <Blocks>
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmorPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmorSlopedPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmorSlopedSidePanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1SlopedPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1SlopedPanelTipHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1SlopedSideBasePanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1SlopedSideTipPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1SlopedSideBasePanelHeavyInv" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1SlopedSideTipPanelHeavyInv" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmorHalfSlopedPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1HalfSlopedPanelHeavyRight" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1HalfSlopedTipPanelHeavyRight" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1HalfSlopedPanelHeavyLeft" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmor2x1HalfSlopedTipPanelHeavyLeft" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeRoundArmorPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeRoundArmorPanelCornerHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeRoundArmorPanelFaceHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeRoundArmorPanelInvertedCornerHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmorHalfCenterPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmorHalfPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmorQuarterPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechLargeArmorCenterPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmorPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmorSlopedPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmorSlopedSidePanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1SlopedPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1SlopedPanelTipHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1SlopedSideBasePanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1SlopedSideTipPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1SlopedSideBasePanelHeavyInv" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1SlopedSideTipPanelHeavyInv" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmorHalfSlopedPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1HalfSlopedPanelHeavyRight" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1HalfSlopedTipPanelHeavyRight" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1HalfSlopedPanelHeavyLeft" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmor2x1HalfSlopedTipPanelHeavyLeft" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallRoundArmorPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallRoundArmorPanelCornerHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallRoundArmorPanelFaceHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallRoundArmorPanelInvertedCornerHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmorHalfCenterPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmorHalfPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmorQuarterPanelHeavy" />
-                <Block Type="MyObjectBuilder_CubeBlock" Subtype="PrototechSmallArmorCenterPanelHeavy" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorSlopedPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorSlopedSidePanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedPanelTipESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedSideBasePanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedSideTipPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedSideBasePanelESPrototechInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedSideTipPanelESPrototechInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorHalfSlopedPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1HalfSlopedPanelESPrototechRight" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1HalfSlopedTipPanelESPrototechRight" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1HalfSlopedPanelESPrototechLeft" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1HalfSlopedTipPanelESPrototechLeft" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeRoundArmorPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeRoundArmorPanelCornerESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeRoundArmorPanelFaceESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeRoundArmorPanelInvertedCornerESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorHalfCenterPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorHalfPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorQuarterPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorCenterPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorSlopedPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorSlopedSidePanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedPanelTipESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedSideBasePanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedSideTipPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedSideBasePanelESPrototechInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedSideTipPanelESPrototechInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorHalfSlopedPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1HalfSlopedPanelESPrototechRight" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1HalfSlopedTipPanelESPrototechRight" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1HalfSlopedPanelESPrototechLeft" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1HalfSlopedTipPanelESPrototechLeft" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallRoundArmorPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallRoundArmorPanelCornerESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallRoundArmorPanelFaceESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallRoundArmorPanelInvertedCornerESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorHalfCenterPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorHalfPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorQuarterPanelESPrototech" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorCenterPanelESPrototech" />
             </Blocks>
         </BlockVariantGroup>
        

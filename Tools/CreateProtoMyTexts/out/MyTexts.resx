@@ -108,244 +108,244 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Description_PrototechHeavyArmor" xml:space="preserve">
-    <value>Prototech Heavy armor to give structure and shape to ships and stations. Durable but heavy. </value>
+  <data name="Description_ESPrototechArmor" xml:space="preserve">
+    <value>Prototech armor to give structure and shape to ships and stations. Durable but heavy. </value>
   </data>
-  <data name="DisplayName_Block_PrototechHalfHeavyArmorBlock" xml:space="preserve">
-    <value>Half Heavy Armor Block</value>
+  <data name="DisplayName_Block_ESPrototechHalfArmorBlock" xml:space="preserve">
+    <value>Half Prototech Armor Block</value>
   </data>
-  <data name="DisplayName_Block_PrototechHalfSlopeHeavyArmorBlock" xml:space="preserve">
-    <value>Half Slope Heavy Armor Block</value>
+  <data name="DisplayName_Block_ESPrototechHalfSlopeArmorBlock" xml:space="preserve">
+    <value>Half Slope Prototech Armor Block</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyAngledArmorCorner" xml:space="preserve">
-    <value>Angled Heavy Armor Corner</value>
+  <data name="DisplayName_Block_ESPrototechAngledArmorCorner" xml:space="preserve">
+    <value>Angled Prototech Armor Corner</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyAngledArmorSlope" xml:space="preserve">
-    <value>Angled Heavy Armor Slope</value>
+  <data name="DisplayName_Block_ESPrototechAngledArmorSlope" xml:space="preserve">
+    <value>Angled Prototech Armor Slope</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorBlock" xml:space="preserve">
-    <value>Prototech Heavy Armor Block</value>
+  <data name="DisplayName_Block_ESPrototechArmorBlock" xml:space="preserve">
+    <value>Prototech Armor Block</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorCorner" xml:space="preserve">
-    <value>Prototech Heavy Armor Corner</value>
+  <data name="DisplayName_Block_ESPrototechArmorCorner" xml:space="preserve">
+    <value>Prototech Armor Corner</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorCorner2" xml:space="preserve">
-    <value>Prototech Heavy Armor Corner 2x1x1</value>
+  <data name="DisplayName_Block_ESPrototechArmorCorner2" xml:space="preserve">
+    <value>Prototech Armor Corner 2x1x1</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorCorner2Base" xml:space="preserve">
-    <value>Prototech Heavy Armor Corner 2x1x1 Base</value>
+  <data name="DisplayName_Block_ESPrototechArmorCorner2Base" xml:space="preserve">
+    <value>Prototech Armor Corner 2x1x1 Base</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorCorner2BaseSmooth" xml:space="preserve">
-    <value>Prototech Heavy Armor Corner 2x1x1 Base Smooth</value>
+  <data name="DisplayName_Block_ESPrototechArmorCorner2BaseSmooth" xml:space="preserve">
+    <value>Prototech Armor Corner 2x1x1 Base Smooth</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorCorner2Smooth" xml:space="preserve">
-    <value>Prototech Heavy Armor Corner 2x1x1 Smooth</value>
+  <data name="DisplayName_Block_ESPrototechArmorCorner2Smooth" xml:space="preserve">
+    <value>Prototech Armor Corner 2x1x1 Smooth</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorCorner2Tip" xml:space="preserve">
-    <value>Prototech Heavy Armor Corner 2x1x1 Tip</value>
+  <data name="DisplayName_Block_ESPrototechArmorCorner2Tip" xml:space="preserve">
+    <value>Prototech Armor Corner 2x1x1 Tip</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorCorner2TipSmooth" xml:space="preserve">
-    <value>Prototech Heavy Armor Corner 2x1x1 Tip Smooth</value>
+  <data name="DisplayName_Block_ESPrototechArmorCorner2TipSmooth" xml:space="preserve">
+    <value>Prototech Armor Corner 2x1x1 Tip Smooth</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorInvCorner" xml:space="preserve">
-    <value>Prototech Heavy Armor Inv. Corner</value>
+  <data name="DisplayName_Block_ESPrototechArmorInvCorner" xml:space="preserve">
+    <value>Prototech Armor Inv. Corner</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorInvCorner2" xml:space="preserve">
-    <value>Prototech Heavy Armor Inv. Corner 2x1x1</value>
+  <data name="DisplayName_Block_ESPrototechArmorInvCorner2" xml:space="preserve">
+    <value>Prototech Armor Inv. Corner 2x1x1</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorInvCorner2Base" xml:space="preserve">
-    <value>Prototech Heavy Armor Inv. Corner 2x1x1 Base</value>
+  <data name="DisplayName_Block_ESPrototechArmorInvCorner2Base" xml:space="preserve">
+    <value>Prototech Armor Inv. Corner 2x1x1 Base</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorInvCorner2BaseSmooth" xml:space="preserve">
-    <value>Prototech Heavy Armor Inv. Corner 2x1x1 Base Smooth</value>
+  <data name="DisplayName_Block_ESPrototechArmorInvCorner2BaseSmooth" xml:space="preserve">
+    <value>Prototech Armor Inv. Corner 2x1x1 Base Smooth</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorInvCorner2Smooth" xml:space="preserve">
-    <value>Prototech Heavy Armor Inv. Corner 2x1x1 Smooth</value>
+  <data name="DisplayName_Block_ESPrototechArmorInvCorner2Smooth" xml:space="preserve">
+    <value>Prototech Armor Inv. Corner 2x1x1 Smooth</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorInvCorner2Tip" xml:space="preserve">
-    <value>Prototech Heavy Armor Inv. Corner 2x1x1 Tip</value>
+  <data name="DisplayName_Block_ESPrototechArmorInvCorner2Tip" xml:space="preserve">
+    <value>Prototech Armor Inv. Corner 2x1x1 Tip</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorInvCorner2TipSmooth" xml:space="preserve">
-    <value>Prototech Heavy Armor Inv. Corner 2x1x1 Tip Smooth</value>
+  <data name="DisplayName_Block_ESPrototechArmorInvCorner2TipSmooth" xml:space="preserve">
+    <value>Prototech Armor Inv. Corner 2x1x1 Tip Smooth</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlope" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlope" xml:space="preserve">
+    <value>Prototech Armor Slope</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlope2" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope 2x1x1</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlope2" xml:space="preserve">
+    <value>Prototech Armor Slope 2x1x1</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlope2Base" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope 2x1x1 Base</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlope2Base" xml:space="preserve">
+    <value>Prototech Armor Slope 2x1x1 Base</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlope2BaseSmooth" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope 2x1x1 Base Smooth</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlope2BaseSmooth" xml:space="preserve">
+    <value>Prototech Armor Slope 2x1x1 Base Smooth</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlope2Smooth" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope 2x1x1 Smooth</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlope2Smooth" xml:space="preserve">
+    <value>Prototech Armor Slope 2x1x1 Smooth</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlope2Tip" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope 2x1x1 Tip</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlope2Tip" xml:space="preserve">
+    <value>Prototech Armor Slope 2x1x1 Tip</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlope2TipSmooth" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope 2x1x1 Tip Smooth</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlope2TipSmooth" xml:space="preserve">
+    <value>Prototech Armor Slope 2x1x1 Tip Smooth</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyRoundArmorCorner" xml:space="preserve">
-    <value>Prototech Heavy Armor Round Corner</value>
+  <data name="DisplayName_Block_ESPrototechRoundArmorCorner" xml:space="preserve">
+    <value>Prototech Armor Round Corner</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyRoundArmorInvCorner" xml:space="preserve">
-    <value>Prototech Heavy Armor Round Inv. Corner</value>
+  <data name="DisplayName_Block_ESPrototechRoundArmorInvCorner" xml:space="preserve">
+    <value>Prototech Armor Round Inv. Corner</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyRoundArmorSlope" xml:space="preserve">
-    <value>Prototech Heavy Armor Round Slope</value>
+  <data name="DisplayName_Block_ESPrototechRoundArmorSlope" xml:space="preserve">
+    <value>Prototech Armor Round Slope</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyRoundedArmorCorner" xml:space="preserve">
-    <value>Rounded Heavy Armor Corner</value>
+  <data name="DisplayName_Block_ESPrototechRoundedArmorCorner" xml:space="preserve">
+    <value>Rounded Prototech Armor Corner</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyRoundedArmorSlope" xml:space="preserve">
-    <value>Rounded Heavy Armor Slope</value>
+  <data name="DisplayName_Block_ESPrototechRoundedArmorSlope" xml:space="preserve">
+    <value>Rounded Prototech Armor Slope</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorHalfSlopeInverted" xml:space="preserve">
-    <value>Half Slope Inv. Heavy Armor</value>
+  <data name="DisplayName_Block_ESPrototechArmorHalfSlopeInverted" xml:space="preserve">
+    <value>Half Slope Inv. Prototech Armor</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorHalfSlopeCorner" xml:space="preserve">
-    <value>Half Slope Corner Heavy Armor</value>
+  <data name="DisplayName_Block_ESPrototechArmorHalfSlopeCorner" xml:space="preserve">
+    <value>Half Slope Corner Prototech Armor</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorHalfSlopeCornerInverted" xml:space="preserve">
-    <value>Half Slope Corner Inv. Heavy Armor</value>
+  <data name="DisplayName_Block_ESPrototechArmorHalfSlopeCornerInverted" xml:space="preserve">
+    <value>Half Slope Corner Inv. Prototech Armor</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlopedCornerTip" xml:space="preserve">
-    <value>Sloped Corner Heavy Armor Tip</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopedCornerTip" xml:space="preserve">
+    <value>Sloped Corner Prototech Armor Tip</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlopedCornerBase" xml:space="preserve">
-    <value>Prototech Heavy Armor Sloped Corner Base</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopedCornerBase" xml:space="preserve">
+    <value>Prototech Armor Sloped Corner Base</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlopedCorner" xml:space="preserve">
-    <value>Prototech Heavy Armor Sloped Corner</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopedCorner" xml:space="preserve">
+    <value>Prototech Armor Sloped Corner</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorHalfSlopedCornerBase" xml:space="preserve">
-    <value>Prototech Heavy Armor Half Sloped Corner Base</value>
+  <data name="DisplayName_Block_ESPrototechArmorHalfSlopedCornerBase" xml:space="preserve">
+    <value>Prototech Armor Half Sloped Corner Base</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorHalfCorner" xml:space="preserve">
-    <value>Prototech Heavy Armor Half Corner Block</value>
+  <data name="DisplayName_Block_ESPrototechArmorHalfCorner" xml:space="preserve">
+    <value>Prototech Armor Half Corner Block</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorCornerSquare" xml:space="preserve">
-    <value>Prototech Heavy Armor Corner Square Block</value>
+  <data name="DisplayName_Block_ESPrototechArmorCornerSquare" xml:space="preserve">
+    <value>Prototech Armor Corner Square Block</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorCornerSquareInverted" xml:space="preserve">
-    <value>Prototech Heavy Armor Corner Square Inv. Block</value>
+  <data name="DisplayName_Block_ESPrototechArmorCornerSquareInverted" xml:space="preserve">
+    <value>Prototech Armor Corner Square Inv. Block</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorHalfSlopedCorner" xml:space="preserve">
-    <value>Prototech Heavy Armor Half Sloped Corner</value>
+  <data name="DisplayName_Block_ESPrototechArmorHalfSlopedCorner" xml:space="preserve">
+    <value>Prototech Armor Half Sloped Corner</value>
   </data>
-  <data name="DisplayName_BlockGroup_ArmorHeavyRampGroup" xml:space="preserve">
-    <value>Prototech Heavy Armor Ramps</value>
+  <data name="DisplayName_BlockGroup_ESPrototechArmorRampGroup" xml:space="preserve">
+    <value>Prototech Armor Ramps</value>
   </data>
-  <data name="DisplayName_BlockGroup_ArmorHeavyRampCornerGroup" xml:space="preserve">
-    <value>Prototech Heavy Armor Ramp Corners</value>
+  <data name="DisplayName_BlockGroup_ESPrototechArmorRampCornerGroup" xml:space="preserve">
+    <value>Prototech Armor Ramp Corners</value>
   </data>
-  <data name="DisplayName_BlockGroup_HeavyArmorSlopedCorners" xml:space="preserve">
-    <value>Prototech Heavy Armor Sloped Corners</value>
+  <data name="DisplayName_BlockGroup_ESPrototechArmorSlopedCorners" xml:space="preserve">
+    <value>Prototech Armor Sloped Corners</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Half Panel 2x1 Base Right</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1HalfSlopedPanel" xml:space="preserve">
+    <value>Prototech Armor Half Panel 2x1 Base Right</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavyInv" xml:space="preserve">
-    <value>Prototech Heavy Armor Half Panel 2x1 Base Left</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1HalfSlopedPanelInv" xml:space="preserve">
+    <value>Prototech Armor Half Panel 2x1 Base Left</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1SlopedPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel 2x1 Slope Base</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1SlopedPanel" xml:space="preserve">
+    <value>Prototech Armor Panel 2x1 Slope Base</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel 2x1 Base Right</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1SlopedSideBasePanel" xml:space="preserve">
+    <value>Prototech Armor Panel 2x1 Base Right</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavyInv" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel 2x1 Base Left</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1SlopedSideBasePanelInv" xml:space="preserve">
+    <value>Prototech Armor Panel 2x1 Base Left</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel 2x1 Tip Right</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1SlopedSideTipPanel" xml:space="preserve">
+    <value>Prototech Armor Panel 2x1 Tip Right</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavyInv" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel 2x1 Tip Left</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1SlopedSideTipPanelInv" xml:space="preserve">
+    <value>Prototech Armor Panel 2x1 Tip Left</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorHalfPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Half Panel</value>
+  <data name="DisplayName_Block_ESPrototechArmorHalfPanel" xml:space="preserve">
+    <value>Prototech Armor Half Panel</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel</value>
+  <data name="DisplayName_Block_ESPrototechArmorPanel" xml:space="preserve">
+    <value>Prototech Armor Panel</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorSlopedPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel Slope</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopedPanel" xml:space="preserve">
+    <value>Prototech Armor Panel Slope</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorSlopedSidePanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel Side</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopedSidePanel" xml:space="preserve">
+    <value>Prototech Armor Panel Side</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorHalfSlopedPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel Half Slope</value>
+  <data name="DisplayName_Block_ESPrototechArmorHalfSlopedPanel" xml:space="preserve">
+    <value>Prototech Armor Panel Half Slope</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1SlopedPanelTipHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel 2x1 Slope Tip</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1SlopedPanelTip" xml:space="preserve">
+    <value>Prototech Armor Panel 2x1 Slope Tip</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorQuarterPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Quarter Panel</value>
+  <data name="DisplayName_Block_ESPrototechArmorQuarterPanel" xml:space="preserve">
+    <value>Prototech Armor Quarter Panel</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Half Panel 2x1 Tip Right</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1HalfSlopedTipPanel" xml:space="preserve">
+    <value>Prototech Armor Half Panel 2x1 Tip Right</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavyInv" xml:space="preserve">
-    <value>Prototech Heavy Armor Half Panel 2x1 Tip Left</value>
+  <data name="DisplayName_Block_ESPrototechArmor2x1HalfSlopedTipPanelInv" xml:space="preserve">
+    <value>Prototech Armor Half Panel 2x1 Tip Left</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyCalibreGun" xml:space="preserve">
+  <data name="DisplayName_Block_ESPrototechCalibreGun" xml:space="preserve">
     <value>Artillery</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorCenterPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Centered Panel</value>
+  <data name="DisplayName_Block_ESPrototechArmorCenterPanel" xml:space="preserve">
+    <value>Prototech Armor Centered Panel</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorHalfCenterPanelHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Centered Half Panel</value>
+  <data name="DisplayName_Block_ESPrototechArmorHalfCenterPanel" xml:space="preserve">
+    <value>Prototech Armor Centered Half Panel</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlopeTransitionBase" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope Transition Base</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopeTransitionBase" xml:space="preserve">
+    <value>Prototech Armor Slope Transition Base</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlopeTransitionBaseMirrored" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope Transition Base Mirrored</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopeTransitionBaseMirrored" xml:space="preserve">
+    <value>Prototech Armor Slope Transition Base Mirrored</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlopeTransitionTip" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope Transition Tip</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopeTransitionTip" xml:space="preserve">
+    <value>Prototech Armor Slope Transition Tip</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlopeTransitionTipMirrored" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope Transition Tip Mirrored</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopeTransitionTipMirrored" xml:space="preserve">
+    <value>Prototech Armor Slope Transition Tip Mirrored</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSquareSlopedCornerBase" xml:space="preserve">
-    <value>Prototech Heavy Armor Square Sloped Corner Base</value>
+  <data name="DisplayName_Block_ESPrototechArmorSquareSlopedCornerBase" xml:space="preserve">
+    <value>Prototech Armor Square Sloped Corner Base</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSquareSlopedCornerTip" xml:space="preserve">
-    <value>Prototech Heavy Armor Square Sloped Corner Tip</value>
+  <data name="DisplayName_Block_ESPrototechArmorSquareSlopedCornerTip" xml:space="preserve">
+    <value>Prototech Armor Square Sloped Corner Tip</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorRaisedSlopedCorner" xml:space="preserve">
-    <value>Prototech Heavy Armor Raised Sloped Corner</value>
+  <data name="DisplayName_Block_ESPrototechArmorRaisedSlopedCorner" xml:space="preserve">
+    <value>Prototech Armor Raised Sloped Corner</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlopeTransition" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope Transition</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopeTransition" xml:space="preserve">
+    <value>Prototech Armor Slope Transition</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSlopeTransitionMirrored" xml:space="preserve">
-    <value>Prototech Heavy Armor Slope Transition Mirrored</value>
+  <data name="DisplayName_Block_ESPrototechArmorSlopeTransitionMirrored" xml:space="preserve">
+    <value>Prototech Armor Slope Transition Mirrored</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavytArmorSquareSlopedCornerTip" xml:space="preserve">
-    <value>Prototech Heavy Armor Square Sloped Corner Tip Inv.</value>
+  <data name="DisplayName_Block_ESPrototechtArmorSquareSlopedCornerTip" xml:space="preserve">
+    <value>Prototech Armor Square Sloped Corner Tip Inv.</value>
   </data>
-  <data name="DisplayName_Block_PrototechHeavyArmorSquareSlopedCornerTipInv" xml:space="preserve">
-    <value>Prototech Heavy Armor Square Sloped Corner Tip Inv.</value>
+  <data name="DisplayName_Block_ESPrototechArmorSquareSlopedCornerTipInv" xml:space="preserve">
+    <value>Prototech Armor Square Sloped Corner Tip Inv.</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorPanelRoundCornerHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel Round Corner</value>
+  <data name="DisplayName_Block_ESPrototechArmorPanelRoundCorner" xml:space="preserve">
+    <value>Prototech Armor Panel Round Corner</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorPanelRoundHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel Round</value>
+  <data name="DisplayName_Block_ESPrototechArmorPanelRound" xml:space="preserve">
+    <value>Prototech Armor Panel Round</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorPanelRoundFaceHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel Round Face</value>
+  <data name="DisplayName_Block_ESPrototechArmorPanelRoundFace" xml:space="preserve">
+    <value>Prototech Armor Panel Round Face</value>
   </data>
-  <data name="DisplayName_Block_PrototechArmorPanelRoundInvertedCornerHeavy" xml:space="preserve">
-    <value>Prototech Heavy Armor Panel Round Inverted Corner</value>
+  <data name="DisplayName_Block_ESPrototechArmorPanelRoundInvertedCorner" xml:space="preserve">
+    <value>Prototech Armor Panel Round Inverted Corner</value>
   </data>
 </root>

@@ -4,13 +4,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorCornerSquare</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorCornerSquare</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCornerSquare}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCornerSquare}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCornerSquare.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -104,7 +104,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorCornerSquare</BlockPairName>
+            <BlockPairName>ESPrototechArmorCornerSquare</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>12</BuildTimeSeconds>
@@ -131,13 +131,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorCornerSquare</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorCornerSquare</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCornerSquare}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCornerSquare}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCornerSquare.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -231,7 +231,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorCornerSquare</BlockPairName>
+            <BlockPairName>ESPrototechArmorCornerSquare</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>3</BuildTimeSeconds>
@@ -258,13 +258,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorCornerSquareInverted</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorCornerSquareInverted</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCornerSquareInverted}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCornerSquareInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCornerSquareInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -364,7 +364,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorCornerSquareInverted</BlockPairName>
+            <BlockPairName>ESPrototechArmorCornerSquareInverted</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>24</BuildTimeSeconds>
@@ -391,13 +391,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorCornerSquareInverted</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorCornerSquareInverted</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorCornerSquareInverted}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCornerSquareInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCornerSquareInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -497,7 +497,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorCornerSquareInverted</BlockPairName>
+            <BlockPairName>ESPrototechArmorCornerSquareInverted</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -524,13 +524,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorHalfCorner</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorHalfCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -615,7 +615,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfCorner</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -643,13 +643,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorHalfCorner</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorHalfCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -734,7 +734,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfCorner</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>3</BuildTimeSeconds>
@@ -762,13 +762,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorHalfSlopeCorner</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorHalfSlopeCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopeCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -830,7 +830,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopeCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopeCorner</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -857,13 +857,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorHalfSlopeCorner</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorHalfSlopeCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopeCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -925,7 +925,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopeCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopeCorner</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>3</BuildTimeSeconds>
@@ -952,13 +952,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorHalfSlopeCornerInverted</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorHalfSlopeCornerInverted</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopeCornerInverted}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeCornerInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeCornerInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1111,7 +1111,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopeCornerInverted</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopeCornerInverted</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>30</BuildTimeSeconds>
@@ -1138,13 +1138,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorHalfSlopeCornerInverted</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorHalfSlopeCornerInverted</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopeCornerInverted}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeCornerInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeCornerInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1297,7 +1297,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopeCornerInverted</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopeCornerInverted</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>9</BuildTimeSeconds>
@@ -1324,13 +1324,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorHalfSlopedCorner</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorHalfSlopedCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopedCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopedCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1421,7 +1421,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopedCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopedCorner</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>12</BuildTimeSeconds>
@@ -1448,13 +1448,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorHalfSlopedCorner</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorHalfSlopedCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopedCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopedCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1545,7 +1545,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopedCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopedCorner</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>3</BuildTimeSeconds>
@@ -1572,13 +1572,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorHalfSlopedCornerBase</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorHalfSlopedCornerBase</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopedCornerBase}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopedCornerBase}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopedCornerBase.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1692,7 +1692,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopedCornerBase</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopedCornerBase</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>15</BuildTimeSeconds>
@@ -1719,13 +1719,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorHalfSlopedCornerBase</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorHalfSlopedCornerBase</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopedCornerBase}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopedCornerBase}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopedCornerBase.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1839,7 +1839,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopedCornerBase</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopedCornerBase</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>5</BuildTimeSeconds>
@@ -1866,13 +1866,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorHalfSlopeInverted</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorHalfSlopeInverted</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopeInverted}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2011,7 +2011,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopeInverted</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopeInverted</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>30</BuildTimeSeconds>
@@ -2038,13 +2038,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorHalfSlopeInverted</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorHalfSlopeInverted</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorHalfSlopeInverted}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2183,7 +2183,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorHalfSlopeInverted</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopeInverted</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>9</BuildTimeSeconds>
@@ -2210,13 +2210,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorSlopedCorner</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorSlopedCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopedCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2326,7 +2326,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorSlopedCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlopedCorner</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>15</BuildTimeSeconds>
@@ -2353,13 +2353,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorSlopedCorner</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorSlopedCorner</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopedCorner}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2469,7 +2469,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorSlopedCorner</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlopedCorner</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>6</BuildTimeSeconds>
@@ -2496,13 +2496,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorSlopedCornerBase</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorSlopedCornerBase</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopedCornerBase}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCornerBase}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerBase.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2640,7 +2640,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorSlopedCornerBase</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlopedCornerBase</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>24</BuildTimeSeconds>
@@ -2667,13 +2667,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorSlopedCornerBase</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorSlopedCornerBase</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopedCornerBase}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCornerBase}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerBase.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2811,7 +2811,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorSlopedCornerBase</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlopedCornerBase</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -2838,13 +2838,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeBlockHeavyArmorSlopedCornerTip</SubtypeId>
+                <SubtypeId>LargeBlockESPrototechArmorSlopedCornerTip</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopedCornerTip}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCornerTip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerTip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2919,7 +2919,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorSlopedCornerTip</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlopedCornerTip</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -2946,13 +2946,13 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallBlockHeavyArmorSlopedCornerTip</SubtypeId>
+                <SubtypeId>SmallBlockESPrototechArmorSlopedCornerTip</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopedCornerTip}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCornerTip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerTip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>Description_ESPrototechArmor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -3027,7 +3027,7 @@
                     <BoneOffset x="127" y="127" z="127" />
                 </BoneInfo>
             </Skeleton>
-            <BlockPairName>PrototechHeavyArmorSlopedCornerTip</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlopedCornerTip</BlockPairName>
             <PhysicsOption>Convex</PhysicsOption>
             <EdgeType>Heavy</EdgeType>
             <BuildTimeSeconds>3</BuildTimeSeconds>

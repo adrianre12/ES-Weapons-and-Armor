@@ -5,13 +5,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorRaisedSlopedCorner</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorRaisedSlopedCorner</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorRaisedSlopedCorner}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorRaisedSlopedCorner}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavyRaisedSlopedCorner.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.32</DeformationRatio>
@@ -139,7 +139,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorRaisedSlopedCorner</BlockPairName>
+      <BlockPairName>ESPrototechArmorRaisedSlopedCorner</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>23</BuildTimeSeconds>
@@ -154,13 +154,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorRaisedSlopedCorner</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorRaisedSlopedCorner</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorRaisedSlopedCorner}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorRaisedSlopedCorner}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavyRaisedSlopedCorner.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.32</DeformationRatio>
@@ -288,7 +288,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorRaisedSlopedCorner</BlockPairName>
+      <BlockPairName>ESPrototechArmorRaisedSlopedCorner</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -303,13 +303,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorSlopeTransition</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorSlopeTransition</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransition}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransition}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransition.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -419,7 +419,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransition</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransition</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>15</BuildTimeSeconds>
@@ -434,13 +434,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorSlopeTransition</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorSlopeTransition</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransition}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransition}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransition.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -550,7 +550,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransition</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransition</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>6</BuildTimeSeconds>
@@ -565,13 +565,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorSlopeTransitionBase</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorSlopeTransitionBase</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionBase}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionBase}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBase.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
 	  <DeformationRatio>0.36</DeformationRatio>
@@ -707,7 +707,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionBase</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionBase</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>23</BuildTimeSeconds>
@@ -722,13 +722,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorSlopeTransitionBase</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorSlopeTransitionBase</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionBase}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionBase}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBase.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
 	  <DeformationRatio>0.36</DeformationRatio>
@@ -864,7 +864,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionBase</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionBase</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -879,13 +879,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorSlopeTransitionBaseMirrored</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorSlopeTransitionBaseMirrored</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionBaseMirrored}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionBaseMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBaseMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <Size x="1" y="1" z="1" />
@@ -1021,7 +1021,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionBaseMirrored</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionBaseMirrored</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>23</BuildTimeSeconds>
@@ -1036,13 +1036,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorSlopeTransitionBaseMirrored</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorSlopeTransitionBaseMirrored</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionBaseMirrored}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionBaseMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBaseMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
 	  <DeformationRatio>0.36</DeformationRatio>
@@ -1178,7 +1178,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionBaseMirrored</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionBaseMirrored</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -1193,13 +1193,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorSlopeTransitionMirrored</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorSlopeTransitionMirrored</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionMirrored}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1309,7 +1309,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionMirrored</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionMirrored</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>15</BuildTimeSeconds>
@@ -1324,13 +1324,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorSlopeTransitionMirrored</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorSlopeTransitionMirrored</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionMirrored}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1440,7 +1440,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionMirrored</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionMirrored</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>6</BuildTimeSeconds>
@@ -1455,13 +1455,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorSlopeTransitionTip</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorSlopeTransitionTip</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionTip}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionTip}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTip.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1558,7 +1558,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionTip</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionTip</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -1574,13 +1574,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorSlopeTransitionTip</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorSlopeTransitionTip</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionTip}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionTip}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTip.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1677,7 +1677,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionTip</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionTip</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>3</BuildTimeSeconds>
@@ -1693,13 +1693,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorSlopeTransitionTipMirrored</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorSlopeTransitionTipMirrored</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionTipMirrored}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionTipMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTipMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1796,7 +1796,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionTipMirrored</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionTipMirrored</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -1812,13 +1812,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorSlopeTransitionTipMirrored</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorSlopeTransitionTipMirrored</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSlopeTransitionTipMirrored}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionTipMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTipMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1915,7 +1915,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSlopeTransitionTipMirrored</BlockPairName>
+      <BlockPairName>ESPrototechArmorSlopeTransitionTipMirrored</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>3</BuildTimeSeconds>
@@ -1931,13 +1931,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorSquareSlopedCornerBase</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorSquareSlopedCornerBase</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSquareSlopedCornerBase}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerBase}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerBase.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.32</DeformationRatio>
@@ -2069,7 +2069,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSquareSlopedCornerBase</BlockPairName>
+      <BlockPairName>ESPrototechArmorSquareSlopedCornerBase</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>23</BuildTimeSeconds>
@@ -2084,13 +2084,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorSquareSlopedCornerBase</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorSquareSlopedCornerBase</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSquareSlopedCornerBase}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerBase}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerBase.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.32</DeformationRatio>
@@ -2222,7 +2222,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSquareSlopedCornerBase</BlockPairName>
+      <BlockPairName>ESPrototechArmorSquareSlopedCornerBase</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -2237,13 +2237,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorSquareSlopedCornerTip</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorSquareSlopedCornerTip</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSquareSlopedCornerTip}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerTip}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTip.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -2343,7 +2343,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSquareSlopedCornerTip</BlockPairName>
+      <BlockPairName>ESPrototechArmorSquareSlopedCornerTip</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>8</BuildTimeSeconds>
@@ -2358,13 +2358,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorSquareSlopedCornerTip</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorSquareSlopedCornerTip</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSquareSlopedCornerTip}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerTip}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTip.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -2464,7 +2464,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSquareSlopedCornerTip</BlockPairName>
+      <BlockPairName>ESPrototechArmorSquareSlopedCornerTip</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>3</BuildTimeSeconds>
@@ -2479,13 +2479,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechLargeBlockHeavyArmorSquareSlopedCornerTipInv</SubtypeId>
+        <SubtypeId>LargeBlockESPrototechArmorSquareSlopedCornerTipInv</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSquareSlopedCornerTipInv}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerTipInv}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTipInv.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -2605,7 +2605,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSquareSlopedCornerTipInv</BlockPairName>
+      <BlockPairName>ESPrototechArmorSquareSlopedCornerTipInv</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>12</BuildTimeSeconds>
@@ -2620,13 +2620,13 @@
     <Definition>
       <Id>
         <TypeId>CubeBlock</TypeId>
-        <SubtypeId>PrototechSmallBlockHeavyArmorSquareSlopedCornerTipInv</SubtypeId>
+        <SubtypeId>SmallBlockESPrototechArmorSquareSlopedCornerTipInv</SubtypeId>
       </Id>
-      <DisplayName>{LOC:DisplayName_Block_PrototechHeavyArmorSquareSlopedCornerTipInv}</DisplayName>
+      <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerTipInv}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTipInv.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_PrototechHeavyArmor</Description>
+      <Description>Description_ESPrototechArmor</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -2746,7 +2746,7 @@
         <Variant Color="Black" Suffix="_black" />
         <Variant Color="White" Suffix="_white" />
       </Variants>
-      <BlockPairName>PrototechHeavyArmorSquareSlopedCornerTipInv</BlockPairName>
+      <BlockPairName>ESPrototechArmorSquareSlopedCornerTipInv</BlockPairName>
       <PhysicsOption>Convex</PhysicsOption>
       <EdgeType>Heavy</EdgeType>
       <BuildTimeSeconds>6</BuildTimeSeconds>

@@ -14,6 +14,8 @@ var linebuf strings.Builder
 
 func main() {
 
+	prototechName := "ESPrototech"
+
 	file, err := os.Open(os.Args[1])
 	if err != nil {
 		log.Fatal(err)
@@ -43,12 +45,12 @@ func main() {
 			}
 		case strings.Contains(line, "<SubtypeId>"):
 			{
-				line = ElementPrefix(line)
+				line = strings.Replace(line, "Heavy", prototechName, 1)
 			}
 		case strings.Contains(line, "<DisplayName>") && strings.Contains(line, "Heavy"):
 			{
 				keep = true
-				line = strings.Replace(line, "DisplayName_Block_", "DisplayName_Block_Prototech", 1)
+				line = strings.Replace(line, "Heavy", prototechName, 1)
 				line = ElementAddLoc(line)
 				//fmt.Println(line)
 				//fmt.Printf("Found\n")
@@ -63,7 +65,7 @@ func main() {
 			}
 		case strings.Contains(line, "<Description>"):
 			{
-				line = strings.Replace(line, "Description_", "Description_Prototech", 1)
+				line = strings.Replace(line, "Heavy", prototechName, 1)
 			}
 		case strings.Contains(line, "<Component "):
 			{
@@ -76,7 +78,7 @@ func main() {
 			}
 		case strings.Contains(line, "<BlockPairName>"):
 			{
-				line = ElementPrefix(line)
+				line = strings.Replace(line, "Heavy", prototechName, 1)
 			}
 		case strings.Contains(line, "<BuildTimeSeconds>"):
 			{
