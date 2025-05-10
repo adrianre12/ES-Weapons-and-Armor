@@ -9,8 +9,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCornerSquare}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCornerSquare.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -136,8 +135,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCornerSquare}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCornerSquare.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -263,8 +261,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCornerSquareInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCornerSquareInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -396,8 +393,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorCornerSquareInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyCornerSquareInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -529,8 +525,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -648,8 +643,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -767,8 +761,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -862,8 +855,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -957,8 +949,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeCornerInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeCornerInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1143,8 +1134,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeCornerInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeCornerInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1329,8 +1319,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopedCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1453,8 +1442,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopedCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1577,8 +1565,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopedCornerBase}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopedCornerBase.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1724,8 +1711,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopedCornerBase}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopedCornerBase.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -1871,8 +1857,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2043,8 +2028,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorHalfSlopeInverted}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyHalfSlopeInverted.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2215,8 +2199,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2358,8 +2341,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCorner}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2501,8 +2483,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCornerBase}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerBase.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2672,8 +2653,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCornerBase}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerBase.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2843,8 +2823,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCornerTip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerTip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>
@@ -2951,8 +2930,7 @@
             <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopedCornerTip}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavySlopedCornerTip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>Cube</BlockTopology>
             <Size x="1" y="1" z="1"/>

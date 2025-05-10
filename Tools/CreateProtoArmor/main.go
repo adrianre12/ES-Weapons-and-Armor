@@ -41,7 +41,6 @@ func main() {
 		case strings.Contains(line, "</Definition>"):
 			{
 				flush = true
-				//fmt.Printf("EndDef\n")
 			}
 		case strings.Contains(line, "<SubtypeId>"):
 			{
@@ -52,20 +51,19 @@ func main() {
 				keep = true
 				line = strings.Replace(line, "Heavy", prototechName, 1)
 				line = ElementAddLoc(line)
-				//fmt.Println(line)
-				//fmt.Printf("Found\n")
 			}
 		case strings.Contains(line, "<Icon>"):
 			{
 				linebuf.WriteString(fmt.Sprintf("%s\r\n", line)) //Kludge to add extra icon rows
 				s := strings.Index(line, "<")
 				indent := line[:s]
-				linebuf.WriteString(fmt.Sprintf("%s%s\r\n", indent, `<Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>`))
-				line = fmt.Sprintf("%s%s", indent, `<Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>`)
+				//linebuf.WriteString(fmt.Sprintf("%s%s\r\n", indent, `<Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>`))
+				line = fmt.Sprintf("%s%s", indent, `<Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>`)
 			}
 		case strings.Contains(line, "<Description>"):
 			{
 				line = strings.Replace(line, "Heavy", prototechName, 1)
+				line = ElementAddLoc(line)
 			}
 		case strings.Contains(line, "<Component "):
 			{

@@ -13,8 +13,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -52,8 +51,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorCenterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorCenterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -93,8 +91,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorSlopedSidePanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -134,8 +131,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -181,8 +177,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorHalfPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -220,8 +215,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorHalfCenterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -258,8 +252,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorQuarterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyQuarterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -297,8 +290,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -340,8 +332,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedPanelTipESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -383,8 +374,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideBasePanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -425,8 +415,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideTipPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -466,8 +455,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideBasePanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -508,8 +496,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideTipPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -549,8 +536,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorHalfSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -592,8 +578,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -633,8 +618,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedTipPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -674,8 +658,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -715,8 +698,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedTipPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -756,8 +738,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -803,8 +784,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundCornerESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -853,8 +833,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundFaceESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -895,8 +874,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundInvertedCornerESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -956,8 +934,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -995,8 +972,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorCenterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorCenterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1036,8 +1012,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorSlopedSidePanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1077,8 +1052,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1124,8 +1098,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorHalfPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1163,8 +1136,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorHalfCenterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1201,8 +1173,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorQuarterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyQuarterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1240,8 +1211,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1283,8 +1253,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedPanelTipESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1326,8 +1295,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideBasePanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1368,8 +1336,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideTipPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1409,8 +1376,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideBasePanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1451,8 +1417,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideTipPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1492,8 +1457,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorHalfSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1535,8 +1499,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1576,8 +1539,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedTipPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1617,8 +1579,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1658,8 +1619,7 @@
             <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedTipPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1699,8 +1659,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1746,8 +1705,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundCornerESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1796,8 +1754,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundFaceESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1838,8 +1795,7 @@
             <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundInvertedCornerESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_ESPrototechArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

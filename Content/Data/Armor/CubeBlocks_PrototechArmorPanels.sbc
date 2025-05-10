@@ -8,13 +8,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmorPanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmorPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -36,7 +35,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmorPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelESPrototech</BlockPairName>
             <MirroringX>Y</MirroringX>
             <MirroringY>X</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -47,13 +46,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmorCenterPanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmorCenterPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorCenterPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorCenterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorCenterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -77,7 +75,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmorCenterPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorCenterPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorCenterPanelESPrototech</BlockPairName>
             <MirroringX>Y</MirroringX>
             <MirroringY>X</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -88,13 +86,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmorSlopedSidePanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmorSlopedSidePanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorSlopedSidePanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorSlopedSidePanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -116,7 +113,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmorSlopedSidePanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorSlopedSidePanelHeavy</BlockPairName>
+            <BlockPairName>ArmorSlopedSidePanelESPrototech</BlockPairName>
             <MirroringX>ZMinusHalfX</MirroringX>
             <MirroringY>XHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>
@@ -129,13 +126,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmorSlopedPanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmorSlopedPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorSlopedPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -164,7 +160,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmorSlopedPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmorSlopedPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlopedPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -176,13 +172,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmorHalfPanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmorHalfPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorHalfPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -203,7 +198,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmorHalfPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorHalfPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorHalfPanelESPrototech</BlockPairName>
             <MirroringY>X</MirroringY>
             <MirroringX>Y</MirroringX>
             <EdgeType>Heavy</EdgeType>
@@ -215,13 +210,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmorHalfCenterPanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmorHalfCenterPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfCenterPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorHalfCenterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -241,7 +235,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmorHalfCenterPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorHalfCenterPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorHalfCenterPanelESPrototech</BlockPairName>
             <MirroringY>X</MirroringY>
             <MirroringX>Y</MirroringX>
             <EdgeType>Heavy</EdgeType>
@@ -253,13 +247,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmorQuarterPanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmorQuarterPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorQuarterPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorQuarterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyQuarterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -279,7 +272,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightQuarterPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorQuarterPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorQuarterPanelESPrototech</BlockPairName>
             <MirroringY>ZHalfZ</MirroringY>
             <MirroringX>HalfZ</MirroringX>
             <MirroringZ>YHalfZ</MirroringZ>
@@ -292,13 +285,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1SlopedPanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmor2x1SlopedPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -323,7 +315,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1SlopedPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -335,13 +327,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1SlopedPanelTipHeavy</SubtypeId>
+                <SubtypeId>LargeArmor2x1SlopedPanelTipESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedPanelTipHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedPanelTipESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -366,7 +357,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1SlopedPanelTip_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedPanelTip</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedPanelTip</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -378,13 +369,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1SlopedSideBasePanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmor2x1SlopedSideBasePanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideBasePanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -407,7 +397,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1SlopedSideBasePanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedSideBasePanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedSideBasePanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>LargeArmor2x1SlopedSideBasePanelHeavyInv</MirroringBlock>
@@ -420,13 +410,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1SlopedSideTipPanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmor2x1SlopedSideTipPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideTipPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -448,7 +437,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1SlopeSideTipPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedSideTipPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedSideTipPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>LargeArmor2x1SlopedSideTipPanelHeavyInv</MirroringBlock>
@@ -461,13 +450,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1SlopedSideBasePanelHeavyInv</SubtypeId>
+                <SubtypeId>LargeArmor2x1SlopedSideBasePanelESPrototechInv</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavyInv}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideBasePanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -490,7 +478,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1SlopedSideBasePanelInv_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedSideBasePanelInv</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedSideBasePanelInv</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>LargeArmor2x1SlopedSideBasePanelHeavy</MirroringBlock>
@@ -503,13 +491,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1SlopedSideTipPanelHeavyInv</SubtypeId>
+                <SubtypeId>LargeArmor2x1SlopedSideTipPanelESPrototechInv</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavyInv}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideTipPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -531,7 +518,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1SlopeSideTipPanelInv_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedSideTipPanelInv</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedSideTipPanelInv</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>LargeArmor2x1SlopedSideTipPanelHeavy</MirroringBlock>
@@ -544,13 +531,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmorHalfSlopedPanelHeavy</SubtypeId>
+                <SubtypeId>LargeArmorHalfSlopedPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfSlopedPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorHalfSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -574,7 +560,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmorHalfSlopedPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmorHalfSlopedPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopedPanel</BlockPairName>
             <MirroringX>ZHalfX</MirroringX>
             <MirroringY>HalfX</MirroringY>
             <MirroringZ>XHalfX</MirroringZ>
@@ -587,13 +573,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1HalfSlopedPanelHeavyRight</SubtypeId>
+                <SubtypeId>LargeArmor2x1HalfSlopedPanelESPrototechRight</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -615,7 +600,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1HalfSlopedPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1HalfSlopedPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1HalfSlopedPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>LargeArmor2x1HalfSlopedPanelHeavyLeft</MirroringBlock>
@@ -628,13 +613,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1HalfSlopedTipPanelHeavyRight</SubtypeId>
+                <SubtypeId>LargeArmor2x1HalfSlopedTipPanelESPrototechRight</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedTipPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -656,7 +640,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1HalfSlopedTipPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1HalfSlopedTipPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1HalfSlopedTipPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>LargeArmor2x1HalfSlopedTipPanelHeavyLeft</MirroringBlock>
@@ -669,13 +653,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1HalfSlopedPanelHeavyLeft</SubtypeId>
+                <SubtypeId>LargeArmor2x1HalfSlopedPanelESPrototechLeft</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavyInv}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -697,7 +680,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1HalfSlopedPanelInv_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1HalfSlopedPanelInv</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1HalfSlopedPanelInv</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>LargeArmor2x1HalfSlopedPanelHeavyRight</MirroringBlock>
@@ -710,13 +693,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeArmor2x1HalfSlopedTipPanelHeavyLeft</SubtypeId>
+                <SubtypeId>LargeArmor2x1HalfSlopedTipPanelESPrototechLeft</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavyInv}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedTipPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -738,7 +720,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\LightArmor2x1HalfSlopedTipPanelInv_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1HalfSlopedTipPanelInv</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1HalfSlopedTipPanelInv</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>LargeArmor2x1HalfSlopedTipPanelHeavyRight</MirroringBlock>
@@ -751,13 +733,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeRoundArmorPanelHeavy</SubtypeId>
+                <SubtypeId>LargeRoundArmorPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -786,7 +767,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\HeavyRoundArmorPanelConstruction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelRoundHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelRoundESPrototech</BlockPairName>
             <MirroringX>Y</MirroringX>
             <MirroringY>X</MirroringY>
             <EdgeType>Light</EdgeType>
@@ -798,13 +779,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeRoundArmorPanelCornerHeavy</SubtypeId>
+                <SubtypeId>LargeRoundArmorPanelCornerESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundCornerHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundCornerESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -836,7 +816,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\HeavyRoundArmorPanelCornerConstruction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelRoundCornerHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelRoundCornerESPrototech</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>MinusHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>
@@ -848,13 +828,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeRoundArmorPanelFaceHeavy</SubtypeId>
+                <SubtypeId>LargeRoundArmorPanelFaceESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundFaceHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundFaceESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -877,7 +856,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\HeavyRoundArmorPanelFaceConstruction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelRoundFaceHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelRoundFaceESPrototech</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>MinusHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>
@@ -890,13 +869,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechLargeRoundArmorPanelInvertedCornerHeavy</SubtypeId>
+                <SubtypeId>LargeRoundArmorPanelInvertedCornerESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundInvertedCornerHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundInvertedCornerESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -932,7 +910,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\HeavyRoundArmorPanelInvertedCornerConstruction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelRoundInvertedCornerHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelRoundInvertedCornerESPrototech</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>MinusHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>
@@ -951,13 +929,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmorPanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmorPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -979,7 +956,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmorPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelESPrototech</BlockPairName>
             <MirroringX>Y</MirroringX>
             <MirroringY>X</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -990,13 +967,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmorCenterPanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmorCenterPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorCenterPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorCenterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorCenterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1020,7 +996,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmorCenterPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorCenterPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorCenterPanelESPrototech</BlockPairName>
             <MirroringX>Y</MirroringX>
             <MirroringY>X</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -1031,13 +1007,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmorSlopedSidePanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmorSlopedSidePanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorSlopedSidePanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorSlopedSidePanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1059,7 +1034,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmorSlopedSidePanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorSlopedSidePanelHeavy</BlockPairName>
+            <BlockPairName>ArmorSlopedSidePanelESPrototech</BlockPairName>
             <MirroringX>ZMinusHalfX</MirroringX>
             <MirroringY>XHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>
@@ -1072,13 +1047,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmorSlopedPanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmorSlopedPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorSlopedPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1107,7 +1081,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmorSlopedPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmorSlopedPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmorSlopedPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -1119,13 +1093,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmorHalfPanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmorHalfPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorHalfPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1146,7 +1119,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmorHalfPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorHalfPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorHalfPanelESPrototech</BlockPairName>
             <MirroringY>X</MirroringY>
             <MirroringX>Y</MirroringX>
             <EdgeType>Heavy</EdgeType>
@@ -1158,13 +1131,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmorHalfCenterPanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmorHalfCenterPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfCenterPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorHalfCenterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1184,7 +1156,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmorHalfCenterPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorHalfCenterPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorHalfCenterPanelESPrototech</BlockPairName>
             <MirroringY>X</MirroringY>
             <MirroringX>Y</MirroringX>
             <EdgeType>Heavy</EdgeType>
@@ -1196,13 +1168,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmorQuarterPanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmorQuarterPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorQuarterPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorQuarterPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyQuarterPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1222,7 +1193,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightQuarterPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorQuarterPanelHeavy</BlockPairName>
+            <BlockPairName>ArmorQuarterPanelESPrototech</BlockPairName>
             <MirroringY>ZHalfZ</MirroringY>
             <MirroringX>HalfZ</MirroringX>
             <MirroringZ>YHalfZ</MirroringZ>
@@ -1235,13 +1206,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1SlopedPanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmor2x1SlopedPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1266,7 +1236,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1SlopedPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -1278,13 +1248,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1SlopedPanelTipHeavy</SubtypeId>
+                <SubtypeId>SmallArmor2x1SlopedPanelTipESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedPanelTipHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedPanelTipESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1309,7 +1278,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1SlopedPanelTip_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedPanelTip</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedPanelTip</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <EdgeType>Heavy</EdgeType>
@@ -1321,13 +1290,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1SlopedSideBasePanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmor2x1SlopedSideBasePanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideBasePanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1350,7 +1318,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1SlopedSideBasePanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedSideBasePanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedSideBasePanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>SmallArmor2x1SlopedSideBasePanelHeavyInv</MirroringBlock>
@@ -1363,13 +1331,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1SlopedSideTipPanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmor2x1SlopedSideTipPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideTipPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1391,7 +1358,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1SlopeSideTipPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedSideTipPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedSideTipPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>SmallArmor2x1SlopedSideTipPanelHeavyInv</MirroringBlock>
@@ -1404,13 +1371,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1SlopedSideBasePanelHeavyInv</SubtypeId>
+                <SubtypeId>SmallArmor2x1SlopedSideBasePanelESPrototechInv</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideBasePanelHeavyInv}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideBasePanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1433,7 +1399,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1SlopedSideBasePanelInv_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedSideBasePanelInv</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedSideBasePanelInv</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>SmallArmor2x1SlopedSideBasePanelHeavy</MirroringBlock>
@@ -1446,13 +1412,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1SlopedSideTipPanelHeavyInv</SubtypeId>
+                <SubtypeId>SmallArmor2x1SlopedSideTipPanelESPrototechInv</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1SlopedSideTipPanelHeavyInv}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1SlopedSideTipPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1474,7 +1439,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1SlopeSideTipPanelInv_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1SlopedSideTipPanelInv</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1SlopedSideTipPanelInv</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>SmallArmor2x1SlopedSideTipPanelHeavy</MirroringBlock>
@@ -1487,13 +1452,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmorHalfSlopedPanelHeavy</SubtypeId>
+                <SubtypeId>SmallArmorHalfSlopedPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorHalfSlopedPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorHalfSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1517,7 +1481,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmorHalfSlopedPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmorHalfSlopedPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmorHalfSlopedPanel</BlockPairName>
             <MirroringX>ZHalfX</MirroringX>
             <MirroringY>HalfX</MirroringY>
             <MirroringZ>XHalfX</MirroringZ>
@@ -1530,13 +1494,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1HalfSlopedPanelHeavyRight</SubtypeId>
+                <SubtypeId>SmallArmor2x1HalfSlopedPanelESPrototechRight</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1558,7 +1521,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1HalfSlopedPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1HalfSlopedPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1HalfSlopedPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>SmallArmor2x1HalfSlopedPanelHeavyLeft</MirroringBlock>
@@ -1571,13 +1534,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1HalfSlopedTipPanelHeavyRight</SubtypeId>
+                <SubtypeId>SmallArmor2x1HalfSlopedTipPanelESPrototechRight</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedTipPanelESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1599,7 +1561,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1HalfSlopedTipPanel_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1HalfSlopedTipPanel</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1HalfSlopedTipPanel</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>SmallArmor2x1HalfSlopedTipPanelHeavyLeft</MirroringBlock>
@@ -1612,13 +1574,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1HalfSlopedPanelHeavyLeft</SubtypeId>
+                <SubtypeId>SmallArmor2x1HalfSlopedPanelESPrototechLeft</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedPanelHeavyInv}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1640,7 +1601,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1HalfSlopedPanelInv_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1HalfSlopedPanelInv</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1HalfSlopedPanelInv</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>SmallArmor2x1HalfSlopedPanelHeavyRight</MirroringBlock>
@@ -1653,13 +1614,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallArmor2x1HalfSlopedTipPanelHeavyLeft</SubtypeId>
+                <SubtypeId>SmallArmor2x1HalfSlopedTipPanelESPrototechLeft</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmor2x1HalfSlopedTipPanelHeavyInv}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_Armor2x1HalfSlopedTipPanelESPrototechInv}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1681,7 +1641,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\LightArmor2x1HalfSlopedTipPanelInv_Construction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechHeavyArmor2x1HalfSlopedTipPanelInv</BlockPairName>
+            <BlockPairName>ESPrototechArmor2x1HalfSlopedTipPanelInv</BlockPairName>
             <MirroringZ>Y</MirroringZ>
             <MirroringY>Z</MirroringY>
             <MirroringBlock>SmallArmor2x1HalfSlopedTipPanelHeavyRight</MirroringBlock>
@@ -1694,13 +1654,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallRoundArmorPanelHeavy</SubtypeId>
+                <SubtypeId>SmallRoundArmorPanelESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanel.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1729,7 +1688,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\HeavyRoundArmorPanelConstruction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelRoundHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelRoundESPrototech</BlockPairName>
             <MirroringX>Y</MirroringX>
             <MirroringY>X</MirroringY>
             <EdgeType>Light</EdgeType>
@@ -1741,13 +1700,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallRoundArmorPanelCornerHeavy</SubtypeId>
+                <SubtypeId>SmallRoundArmorPanelCornerESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundCornerHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundCornerESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="1" y="1" z="1" />
@@ -1779,7 +1737,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\HeavyRoundArmorPanelCornerConstruction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelRoundCornerHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelRoundCornerESPrototech</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>MinusHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>
@@ -1791,13 +1749,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallRoundArmorPanelFaceHeavy</SubtypeId>
+                <SubtypeId>SmallRoundArmorPanelFaceESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundFaceHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundFaceESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1820,7 +1777,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\HeavyRoundArmorPanelFaceConstruction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelRoundFaceHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelRoundFaceESPrototech</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>MinusHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>
@@ -1833,13 +1790,12 @@
         <Definition>
             <Id>
                 <TypeId>CubeBlock</TypeId>
-                <SubtypeId>PrototechSmallRoundArmorPanelInvertedCornerHeavy</SubtypeId>
+                <SubtypeId>SmallRoundArmorPanelInvertedCornerESPrototech</SubtypeId>
             </Id>
-            <DisplayName>{LOC:DisplayName_Block_PrototechArmorPanelRoundInvertedCornerHeavy}</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_ArmorPanelRoundInvertedCornerESPrototech}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
             <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-            <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-            <Description>Description_PrototechHeavyArmor</Description>
+            <Description>{LOC:Description_ESPrototechArmor}</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1875,7 +1831,7 @@
             <BuildProgressModels>
                 <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\HeavyRoundArmorPanelInvertedCornerConstruction_1.mwm" />
             </BuildProgressModels>
-            <BlockPairName>PrototechArmorPanelRoundInvertedCornerHeavy</BlockPairName>
+            <BlockPairName>ArmorPanelRoundInvertedCornerESPrototech</BlockPairName>
             <MirroringX>YHalfX</MirroringX>
             <MirroringY>MinusHalfX</MirroringY>
             <MirroringZ>HalfX</MirroringZ>

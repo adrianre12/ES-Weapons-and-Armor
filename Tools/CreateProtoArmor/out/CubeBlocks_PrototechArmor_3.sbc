@@ -10,8 +10,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorRaisedSlopedCorner}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavyRaisedSlopedCorner.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.32</DeformationRatio>
@@ -159,8 +158,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorRaisedSlopedCorner}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavyRaisedSlopedCorner.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.32</DeformationRatio>
@@ -308,8 +306,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransition}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransition.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -439,8 +436,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransition}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransition.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -570,8 +566,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionBase}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBase.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
 	  <DeformationRatio>0.36</DeformationRatio>
@@ -727,8 +722,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionBase}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBase.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
 	  <DeformationRatio>0.36</DeformationRatio>
@@ -884,8 +878,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionBaseMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBaseMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <Size x="1" y="1" z="1" />
@@ -1041,8 +1034,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionBaseMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBaseMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
 	  <DeformationRatio>0.36</DeformationRatio>
@@ -1198,8 +1190,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1329,8 +1320,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1460,8 +1450,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionTip}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTip.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1579,8 +1568,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionTip}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTip.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1698,8 +1686,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionTipMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTipMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1817,8 +1804,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSlopeTransitionTipMirrored}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTipMirrored.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -1936,8 +1922,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerBase}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerBase.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.32</DeformationRatio>
@@ -2089,8 +2074,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerBase}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerBase.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.32</DeformationRatio>
@@ -2242,8 +2226,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerTip}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTip.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -2363,8 +2346,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerTip}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTip.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -2484,8 +2466,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerTipInv}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTipInv.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Large</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
@@ -2625,8 +2606,7 @@
       <DisplayName>{LOC:DisplayName_Block_ESPrototechArmorSquareSlopedCornerTipInv}</DisplayName>
       <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTipInv.dds</Icon>
       <Icon>Textures\GUI\Icons\Overlays\PrototechArmor.dds</Icon>
-      <Icon>Textures\GUI\Icons\Overlays\Weight.dds</Icon>
-      <Description>Description_ESPrototechArmor</Description>
+      <Description>{LOC:Description_ESPrototechArmor}</Description>
       <CubeSize>Small</CubeSize>
       <BlockTopology>Cube</BlockTopology>
       <DeformationRatio>0.16</DeformationRatio>
