@@ -55,9 +55,9 @@
 	<Blueprint>
 		<Id>
 			<TypeId>BlueprintDefinition</TypeId>
-			<SubtypeId>LargeRailgunAmmoPVM</SubtypeId>
+			<SubtypeId>LargeRailgunAmmoMarksman</SubtypeId>
 		</Id>
-		<DisplayName>Large Railgun Sabot PVM</DisplayName>
+		<DisplayName>Large Railgun Sabot Marksman</DisplayName>
 		<Icon>Textures\GUI\Icons\ammo\RailgunAmmo.dds</Icon>
 		<Prerequisites>
 			<Item Amount="20" TypeId="Ingot" SubtypeId="Iron" />
@@ -65,16 +65,16 @@
 			<Item Amount="30" TypeId="Ingot" SubtypeId="Silicon" />
 			<Item Amount="1" TypeId="Ingot" SubtypeId="Uranium" />
 		</Prerequisites>
-		<Result Amount="1" TypeId="AmmoMagazine" SubtypeId="LargeRailgunAmmoPVM" />
+		<Result Amount="1" TypeId="AmmoMagazine" SubtypeId="LargeRailgunAmmoMarksman" />
 		<BaseProductionTimeInSeconds>14</BaseProductionTimeInSeconds>
 	</Blueprint>
 
 	<Blueprint>
 		<Id>
 			<TypeId>BlueprintDefinition</TypeId>
-			<SubtypeId>LargeRailgunAmmoPV</SubtypeId>
+			<SubtypeId>LargeRailgunAmmoAdvanced</SubtypeId>
 		</Id>
-		<DisplayName>Large Railgun Sabot PV</DisplayName>
+		<DisplayName>Large Railgun Sabot Advanced</DisplayName>
 		<Icon>Textures\GUI\Icons\ammo\RailgunAmmo.dds</Icon>
 		<Prerequisites>
 			<Item Amount="20" TypeId="Ingot" SubtypeId="Iron" />
@@ -82,7 +82,7 @@
 			<Item Amount="30" TypeId="Ingot" SubtypeId="Silicon" />
 			<Item Amount="1" TypeId="Ingot" SubtypeId="Uranium" />
 		</Prerequisites>
-		<Result Amount="1" TypeId="AmmoMagazine" SubtypeId="LargeRailgunAmmoPV" />
+		<Result Amount="1" TypeId="AmmoMagazine" SubtypeId="LargeRailgunAmmoAdvanced" />
 		<BaseProductionTimeInSeconds>14</BaseProductionTimeInSeconds>
 	</Blueprint>
 

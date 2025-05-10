@@ -68,7 +68,7 @@
 		<Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
 			<Id>
 				<TypeId>AmmoDefinition</TypeId>
-				<SubtypeId>LargeRailgunSlugPVM</SubtypeId>
+				<SubtypeId>LargeRailgunSlugMarksman</SubtypeId>
 			</Id>
 			<BasicProperties>
 				<DesiredSpeed>2000</DesiredSpeed>
@@ -97,7 +97,7 @@
 		<Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
 			<Id>
 				<TypeId>AmmoDefinition</TypeId>
-				<SubtypeId>LargeRailgunSlugPV</SubtypeId>
+				<SubtypeId>LargeRailgunSlugAdvanced</SubtypeId>
 			</Id>
 			<BasicProperties>
 				<DesiredSpeed>2000</DesiredSpeed>

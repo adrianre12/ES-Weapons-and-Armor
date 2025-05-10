@@ -56,9 +56,9 @@
     	<AmmoMagazine>
 			<Id>
 				<TypeId>AmmoMagazine</TypeId>
-				<SubtypeId>LargeRailgunAmmoPVM</SubtypeId>
+				<SubtypeId>LargeRailgunAmmoMarksman</SubtypeId>
 			</Id>
-			<DisplayName>Large Railgun Sabot PVM</DisplayName>
+			<DisplayName>Large Railgun Sabot Marksman</DisplayName>
 			<Icon>Textures\GUI\Icons\ammo\RailgunAmmoLarge.dds</Icon>
 			<Size>
 				<X>1.0</X>
@@ -70,7 +70,7 @@
 			<Model>Models\Weapons\RailgunAmmoLarge.mwm</Model>
 			<PhysicalMaterial>Ammo</PhysicalMaterial>
 			<Capacity>1</Capacity>
-			<AmmoDefinitionId Subtype="LargeRailgunSlugPVM" />
+			<AmmoDefinitionId Subtype="LargeRailgunSlugMarksman" />
 
 			<MinimumOfferAmount>3</MinimumOfferAmount>
 			<MaximumOfferAmount>15</MaximumOfferAmount>
@@ -82,9 +82,9 @@
 		<AmmoMagazine>
 			<Id>
 				<TypeId>AmmoMagazine</TypeId>
-				<SubtypeId>LargeRailgunAmmoPV</SubtypeId>
+				<SubtypeId>LargeRailgunAmmoAdvanced</SubtypeId>
 			</Id>
-			<DisplayName>Large Railgun Sabot PV</DisplayName>
+			<DisplayName>Large Railgun Sabot Advanced</DisplayName>
 			<Icon>Textures\GUI\Icons\ammo\RailgunAmmoLarge.dds</Icon>
 			<Size>
 				<X>1.0</X>
@@ -96,7 +96,7 @@
 			<Model>Models\Weapons\RailgunAmmoLarge.mwm</Model>
 			<PhysicalMaterial>Ammo</PhysicalMaterial>
 			<Capacity>1</Capacity>
-			<AmmoDefinitionId Subtype="LargeRailgunSlugPV" />
+			<AmmoDefinitionId Subtype="LargeRailgunSlugAdvanced" />
 
 			<MinimumOfferAmount>3</MinimumOfferAmount>
 			<MaximumOfferAmount>15</MaximumOfferAmount>
