@@ -6,7 +6,7 @@
                 <TypeId>SmallMissileLauncherReload</TypeId>
                 <SubtypeId>LargeAdminRailgun</SubtypeId>
             </Id>
-            <DisplayName>Large Admin Railgun</DisplayName>
+            <DisplayName>{LOC:DisplayName_Block_LargeAdminRailgun}</DisplayName>
             <Icon>Textures\GUI\Icons\Cubes\Weapons\RailGun.dds</Icon>
 			<Icon>Textures\GUI\Icons\Overlays\Admin.dds</Icon>
             <Description>{LOC:Description_LargeAdminRailgun}</Description>
@@ -71,7 +71,7 @@
 				<TypeId>LargeMissileTurret</TypeId>
 				<SubtypeId>AdminArtilleryTurret</SubtypeId>
 			</Id>
-			<DisplayName>Admin Artillery Turret</DisplayName>
+			<DisplayName>{LOC:DisplayName_Block_AdminArtilleryTurret}</DisplayName>
 			<Icon>Textures\GUI\Icons\Cubes\Weapons\HeavyCalibreTurret.dds</Icon>
 			<Icon>Textures\GUI\Icons\Overlays\Admin.dds</Icon>
 			<Description>{LOC:Description_AdminArtilleryTurret}</Description>
@@ -173,7 +173,7 @@
 				<TypeId>SmallMissileLauncherReload</TypeId>
 				<SubtypeId>MarksmanLargePrototechRailgun</SubtypeId>
 			</Id>
-			<DisplayName>Marksman Large Prototech Railgun</DisplayName>
+			<DisplayName>{LOC:DisplayName_Block_MarksmanLargePrototechRailgun}</DisplayName>
 			<Icon>Textures\GUI\Icons\Cubes\Weapons\RailGun.dds</Icon>
 			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
 			<Description>{LOC:Description_MarksmanLargePrototechRailgun}</Description>
@@ -234,7 +234,7 @@
 				<TypeId>SmallMissileLauncherReload</TypeId>
 				<SubtypeId>Adv_LargePrototechRailgun</SubtypeId>
 			</Id>
-			<DisplayName>Adv. Large Prototech Railgun</DisplayName>
+			<DisplayName>{LOC:DisplayName_Block_AdvLargePrototechRailgun}</DisplayName>
 			<Icon>Textures\GUI\Icons\Cubes\Weapons\RailGun.dds</Icon>
 			<Icon>Textures\GUI\Icons\Overlays\Prototech.dds</Icon>
 			<Description>{LOC:Description_Adv_LargePrototechRailgun}</Description>
