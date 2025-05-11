@@ -15,6 +15,7 @@ var linebuf strings.Builder
 func main() {
 
 	prototechName := "ESPrototech"
+	addLoc := true
 
 	file, err := os.Open(os.Args[1])
 	if err != nil {
@@ -50,7 +51,9 @@ func main() {
 			{
 				keep = true
 				line = strings.Replace(line, "Heavy", prototechName, 1)
-				line = ElementAddLoc(line)
+				if addLoc {
+					line = ElementAddLoc(line)
+				}
 			}
 		case strings.Contains(line, "<Icon>"):
 			{
@@ -63,7 +66,9 @@ func main() {
 		case strings.Contains(line, "<Description>"):
 			{
 				line = strings.Replace(line, "Heavy", prototechName, 1)
-				line = ElementAddLoc(line)
+				if addLoc {
+					line = ElementAddLoc(line)
+				}
 			}
 		case strings.Contains(line, "<Component "):
 			{
