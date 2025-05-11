@@ -74,4 +74,8 @@
 	<data name="DisplayName_Block_ArmorHalfCenterPanelHeavy" xml:space="preserve">
 		<value>Heavy Armor Centered Half Panel</value>
 	</data>
+	
+	<data name="DisplayName_Block_HalfHeavyArmorBlock" xml:space="preserve">
+		<value>Half Heavy Armor Block</value>
+	</data>
 </root>

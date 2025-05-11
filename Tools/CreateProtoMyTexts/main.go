@@ -41,9 +41,9 @@ func main() {
 
 				if strings.Contains(line, "DisplayName_Block") && strings.Contains(line, "Heavy") {
 					keep = true
-					line = strings.Replace(line, "Block_", "Block_ESPrototech", 1)
-					line = strings.Replace(line, "BlockGroup_", "BlockGroup_ESPrototech", 1)
-					line = strings.Replace(line, "Heavy", "", 1)
+					//line = strings.Replace(line, "Block_", "Block_ESPrototech", 1)
+					//line = strings.Replace(line, "BlockGroup_", "BlockGroup_ESPrototech", 1)
+					line = strings.Replace(line, "Heavy", "ESPrototech", 1)
 				}
 			}
 		case strings.Contains(line, "</data>"):

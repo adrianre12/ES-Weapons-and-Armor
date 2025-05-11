@@ -15,7 +15,7 @@
             <AmmoMagazines>
                 <AmmoMagazine Subtype="LargeRailgunAmmoAdmin" />
             </AmmoMagazines>
-            <ReloadTime>4000</ReloadTime>
+            <ReloadTime>2000</ReloadTime>
             <Effects>
                 <Effect Action="BeforeShoot" Dummy="barrel_001" Particle="Muzzle_Flash_RailgunLarge" Loop="false" InstantStop="false" OffsetX="0" OffsetY="0" OffsetZ="-9"/>
             </Effects>

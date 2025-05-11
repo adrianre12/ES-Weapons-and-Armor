@@ -34,4 +34,7 @@
     <Folder Include="Content\Data\Armor\" />
     <Folder Include="Content\Data\Weapon\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Content\Data\Localization\ESPrototechArmor.resx" />
+  </ItemGroup>
 </Project>
