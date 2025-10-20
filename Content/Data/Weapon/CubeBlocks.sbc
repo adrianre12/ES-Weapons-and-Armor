@@ -18,11 +18,12 @@
             <Model>Models\Cubes\Large\RailGun.mwm</Model>
             <Components>
 				<Component Subtype="PrototechPanel" Count="50" />
-				<Component Subtype="ESRestrictedConstruction" Count="1" />
-				<DeconstructId>
-					<TypeId>Ore</TypeId>
-					<SubtypeId>Scrap</SubtypeId>
-				</DeconstructId>
+				<Component Subtype="ESRestrictedConstruction" Count="1" >
+					<DeconstructId>
+						<TypeId>Ore</TypeId>
+						<SubtypeId>Scrap</SubtypeId>
+					</DeconstructId>
+				</Component>
 				<Component Subtype="Construction" Count="150" />
 				<Component Subtype="Superconductor" Count="150" />
 				<Component Subtype="LargeTube" Count="60" />
@@ -85,11 +86,12 @@
 			<UseModelIntersection>true</UseModelIntersection>
 			<Components>
 				<Component Subtype="PrototechPanel" Count="150" />
-				<Component Subtype="ESRestrictedConstruction" Count="1" />
-				<DeconstructId>
-					<TypeId>Ore</TypeId>
-					<SubtypeId>Scrap</SubtypeId>
-				</DeconstructId>
+				<Component Subtype="ESRestrictedConstruction" Count="1" >
+					<DeconstructId>
+						<TypeId>Ore</TypeId>
+						<SubtypeId>Scrap</SubtypeId>
+					</DeconstructId>
+				</Component>
 				<Component Subtype="Construction" Count="300" />
 				<Component Subtype="MetalGrid" Count="50" />
 				<Component Subtype="LargeTube" Count="40" />
